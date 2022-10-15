@@ -1,0 +1,330 @@
+{
+  "site_width": "1150px",
+  "site_boxed_inner_width": "1260px",
+  "builder_header_desktop": {
+    "order": ["top", "mid", "bottom"],
+    "mid": {
+      "scheme": "dark",
+      "left": {
+        "items": ["social_icons"]
+      },
+      "center": {
+        "items": ["logo"]
+      },
+      "right": {
+        "items": ["shop", "user"]
+      }
+    },
+    "bottom": {
+      "left": {
+        "items": ["menu_handler"]
+      },
+      "center": {
+        "items": ["main_menu"]
+      },
+      "right": {
+        "items": ["search_form"]
+      }
+    }
+  },
+  "builder_header_mobile": {
+    "mobile": {
+      "scheme": "dark",
+      "left": {
+        "items": ["menu_handler"]
+      },
+      "center": {
+        "items": ["logo"]
+      },
+      "right": {
+        "items": ["search"]
+      }
+    }
+  },
+  "builder_header_sticky": {
+    "sticky": {
+      "scheme": "dark",
+      "left": {
+        "items": ["menu_handler"]
+      },
+      "center": {
+        "items": ["logo"]
+      },
+      "right": {
+        "items": ["search_form"]
+      }
+    }
+  },
+  "builder_drawer": {
+    "drawer": {
+      "left": {
+        "items": ["logo"]
+      },
+      "center": {
+        "items": ["mobile_menu"]
+      },
+      "right": {
+        "items": ["social_icons", "footer_copyright"]
+      }
+    }
+  },
+  "header_style": "style-13",
+  "header_bg_image": {
+    "type": "repeat"
+  },
+  "header_top_height": "40",
+  "header_mid_height": "80",
+  "logo_type": "image",
+  "logo_image": "%attachment_url%ak-newsy-logo%attachment_url%",
+  "logo2x_image": "%attachment_url%ak-newsy-logo2x%attachment_url%",
+  "logo_dark_image": "%attachment_url%ak-newsy-logo%attachment_url%",
+  "logo2x_dark_image": "%attachment_url%ak-newsy-logo2x%attachment_url%",
+  "main_logo_width": "170",
+  "typ_header_logo": {
+    "family": "Roboto",
+    "subset": "latin",
+    "size": "35px"
+  },
+  "typ_top_bar_date": {
+    "size": "12px",
+    "line-height": "35px",
+    "color": "#ffffff"
+  },
+  "header_social_icons": "facebook,twitter,youtube,instagram",
+  "header_social_icons_style": "light-circle",
+  "header_social_icons_bg_color": "#303030",
+  "header_search_form_style": "rounded",
+  "builder_footer": {
+    "order": ["top", "mid", "bottom"],
+    "top": {
+      "right": {
+        "layout": "normal"
+      }
+    },
+    "mid": {
+      "scheme": "dark",
+      "left": {
+        "items": ["logo"]
+      },
+      "right": {
+        "items": ["footer_social_icons"]
+      }
+    },
+    "bottom": {
+      "scheme": "dark",
+      "left": {
+        "items": ["footer_copyright"]
+      },
+      "right": {
+        "items": ["footer_menu"]
+      }
+    }
+  },
+  "footer_style": "style-1",
+  "footer_bg_color": "#232323",
+  "footer_mid_height": "100",
+  "footer_menu_style": "style-6",
+  "footer_social_icons": "facebook,twitter,youtube,instagram,soundcloud,rss",
+  "footer_social_icons_style": "dark",
+  "footer_social_icons_bg_color": "#545454",
+  "footer_copyright": "\u00a9 #year# <a href=\"#siteurl#\" title=\"#title#\">#sitename#</a> - #title# by <a href=\"http://akbilisim.com\" title=\"akbilisim\">akbilisim</a>.",
+  "category_layout": "style-3",
+  "category_loop": "newsy_list_2",
+  "post_template": "style-1",
+  "post_primary_sidebar": "post-sidebar",
+  "post_thumbnail_size": "crop-715",
+  "post_show_excerpt": "hide",
+  "post_meta": "style-2",
+  "post_social_share_sites": "facebook,twitter,google_plus,pinterest,reddit,linkedin,tumblr,email",
+  "post_social_share_style": "style-5",
+  "post_social_share_count": "total-each",
+  "post_social_share_bottom": "hide",
+  "post_voting_count_type": "items_count",
+  "post_voting_up_icon": "fa-thumbs-o-up",
+  "post_voting_down_icon": "fa-thumbs-o-down",
+  "post_show_reaction_box": "hide",
+  "post_related_loop": "newsy_list_1_large",
+  "post_related_loop_posts_count": "5",
+  "post_related_loop_pagination": "infinity",
+  "post_comments_form_remove_url": "yes",
+  "woocommerce_layout": "style-3",
+  "site_highlight_color": "#11c1c4",
+  "site_block_color": "#ff005b",
+  "module_title_color": "#d21237",
+  "typo_body_font": {
+    "family": "Roboto",
+    "subset": "latin"
+  },
+  "typo_heading": {
+    "family": "Oswald",
+    "subset": "latin"
+  },
+  "typ_header_menu": {
+    "family": "Oswald",
+    "variant": "500",
+    "subset": "latin",
+    "size": "14px",
+    "line-height": "50px",
+    "transform": "uppercase"
+  },
+  "main_menu_bottom_border_hover_color": "ed145b",
+  "typ_top_bar_menu": {
+    "family": "Roboto",
+    "subset": "latin",
+    "size": "14px",
+    "line-height": "40px",
+    "color": "#ffffff"
+  },
+  "top_bar_menu_a_hover_color": "#ed145b",
+  "archive_header_name": {
+    "family": "Oswald",
+    "variant": "700",
+    "subset": "latin"
+  },
+  "typo_single_post_title": {
+    "family": "Roboto",
+    "variant": "700",
+    "subset": "latin",
+    "size": "46px"
+  },
+  "typo_single_post_summary": {
+    "size": "20px",
+    "line-height": "26px"
+  },
+  "typo_single_post_content": {
+    "family": "Roboto",
+    "subset": "latin",
+    "size": "16px"
+  },
+  "typo_general_block_header_title": {
+    "family": "Oswald",
+    "variant": "700",
+    "subset": "latin",
+    "size": "16px",
+    "line-height": "30px"
+  },
+  "typo_general_block_header_tabs": {
+    "family": "Oswald",
+    "variant": "700",
+    "subset": "latin",
+    "size": "16px",
+    "line-height": "30px"
+  },
+  "typo_summary": {
+    "family": "Roboto",
+    "subset": "latin",
+    "size": "15px",
+    "color": "#555555"
+  },
+  "typo_meta": {
+    "size": "14px"
+  },
+  "block_load_more_bg_color": "rgba(0,0,0,0)",
+  "block_load_more_text_color": "#1c1c1c",
+  "block_load_more_border_color": "#000000",
+  "block_load_more_hover_bg_color": "#000000",
+  "block_load_more_hover_text_color": "#ffffff",
+  "block_load_more_hover_border_color": "#000000",
+  "module_1_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_date": "hide",
+    "show_category": "hide"
+  },
+  "module_1_large_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_category_type": "inline"
+  },
+  "module_1_medium_parts": {
+    "show_category_type": "inline_badge"
+  },
+  "module_1_small_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago"
+  },
+  "module_1_small_square_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide"
+  },
+  "module_1_wide_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide"
+  },
+  "module_2_parts": {
+    "show_excerpt": "hide",
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_category_type": "inline"
+  },
+  "module_2_wide_parts": {
+    "show_excerpt": "hide",
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_category_type": "inline"
+  },
+  "module_2_tall_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_category_type": "inline"
+  },
+  "module_3_parts": {
+    "show_category_type": "inline_badge"
+  },
+  "module_5_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide"
+  },
+  "module_9_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide"
+  },
+  "module_10_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide"
+  },
+  "module_grid_big_parts": {
+    "show_author_icon": "hide",
+    "show_category_type": "inline_badge",
+    "show_badge_icon": "hide"
+  },
+  "module_grid_small_parts": {
+    "show_author_icon": "hide",
+    "show_category_type": "inline_badge",
+    "show_badge_icon": "hide"
+  },
+  "module_grid_tall_parts": {
+    "show_author_icon": "hide",
+    "show_category_type": "inline_badge",
+    "show_badge_icon": "hide"
+  },
+  "module_grid_wide_parts": {
+    "show_author_icon": "hide",
+    "show_category_type": "inline_badge",
+    "show_badge_icon": "hide"
+  },
+  "module_grid_wide_big_parts": {
+    "show_author_icon": "hide",
+    "show_category_type": "inline_badge",
+    "show_badge_icon": "hide"
+  },
+  "cat_badge_style": {
+    "background": {
+      "color": "#ff005b"
+    }
+  },
+  "typo_meta_category": {
+    "family": "Roboto",
+    "variant": "500",
+    "subset": "latin",
+    "transform": "uppercase",
+    "color": "#777777"
+  },
+  "typo_cat_badge": {
+    "family": "Roboto",
+    "variant": "700",
+    "subset": "latin"
+  },
+  "_custom_header_code": "<style>\n.ak-sticky-bar .ak-logo-main img, .ak-mobile-bar .ak-logo-main img {\n height: 40px\n}\n</style>"
+}

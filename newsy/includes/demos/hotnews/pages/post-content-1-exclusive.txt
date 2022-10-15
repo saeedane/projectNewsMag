@@ -1,0 +1,107 @@
+<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap" id="has-drop-cap">Space scientists have discovered just how much they can accomplish when they work together, with incredible feats achieved this year through collaborations with commercial industry and foreign nations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Successful partnerships in 2022 have included the launch and calibration of the most powerful space telescope in the world and photographing the never-before-seen supermassive black hole at the center of the Milky Way galaxy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:more -->
+<!--more-->
+<!-- /wp:more -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><p>Space, it says, is big. Really big. You just won't believe how vastly, hugely, mindbogglingly big it is.</p><cite>Douglas Adams</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Stray rocket junk in an unpredictable orbit smashed into the moon, for example, creating a new crater. And NASA's mega moon rocket, the Space Launch System, has stumbled on its way to its first lunar mission, with the agency encountering several problems with contractors' work during a critical test this spring.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Whether the rest of the year will include the inaugural moon-bound Artemis mission, the United States' return to human deep space exploration, remains to be seen. Read more about the year's biggest moments in space, so far.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>James Webb Space Telescope opens for business</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="%attachment_url%ak-post-1-img-1%attachment_url%" alt="fully unfurled and calibrated James Webb Space Telescope"/><figcaption>The James Webb Space Telescope will deliver its first full-color images on July 12.&nbsp;Credit: NASA</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The most powerful observatory in space hit its mark at a destination 1 million miles from Earth in late January and unfurled its complicated,&nbsp;<a href="#">tennis court-size sun shield</a>. Engineers have since calibrated the Webb telescope's scientific instruments,&nbsp;<a href="#">exceeding expectations</a>&nbsp;for its level of precision.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:pullquote {"textAlign":"left","align":"left"} -->
+<figure class="wp-block-pullquote alignleft has-text-align-left"><blockquote><p>In this single galaxy of ours there are eighty-seven thousand million suns.</p><cite>Arthur C. Clarke</cite></blockquote></figure>
+<!-- /wp:pullquote -->
+
+<!-- wp:paragraph -->
+<p>Astronomers anticipate the telescope will stoke a golden age in our understanding of the cosmos, providing snapshots of space&nbsp;<a href="#">billions of light-years away</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On July 12, the James Webb Space Telescope, a partnership between NASA, the European Space Agency, and the Canadian Space Agency, will deliver its&nbsp;<a href="#">first full-color images</a>. What those first cosmic targets will be is a closely guarded secret.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Webb is expected to observe some of the oldest, faintest light in the universe. The telescope will focus on a period less than 300 million years after the Big Bang, when many of the first stars and galaxies were born.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Scientists will also use the telescope to peer into the atmospheres of planets outside our solar system, called&nbsp;<a href="#">exoplanets</a>. Discoveries out there of water and methane, for example, could be signs of potential habitability or biological activity.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>Peculiar widespread Martian aurora discovered</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>New overview images of Mars have revealed a stunning green light show in the planet's sky.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"right","width":429,"height":241} -->
+<figure class="wp-block-image alignright is-resized"><img src="%attachment_url%ak-post-1-img-2%attachment_url%" alt="green wormlike aurora streaking Martian sky" width="429" height="241"/><figcaption>Scientists believe a newly discovered Martian aurora puts green streaks in Mars' sky.&nbsp;Credit: Emirates Mars Mission</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Much of Mars' atmosphere apparently has a wormlike streak, an aurora similar to the Northern Lights sometimes visible on Earth. The Martian aurora is a glowing, twisted band of ultraviolet light, stretching thousands of miles from the dayside, which faces the sun, to the back of the planet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A United Arab Emirates Space Agency probe orbiting Mars, known as Hope,&nbsp;<a href="#">took the snapshots</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>No one knows how it's happening, given that scientists believe&nbsp;<a href="https://mgs-mager.gsfc.nasa.gov/kids/magfield.html">Mars' magnetic field</a>&nbsp;largely deteriorated billions of years ago. Magnetic fields guide high-energy streams of electrons from the sun into a planet's atmosphere.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>Astronomers take the first photo of massive Milky Way black hole</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"align":"left","width":312,"height":312} -->
+<figure class="wp-block-image alignleft is-resized"><img src="%attachment_url%ak-post-1-img-3%attachment_url%" alt="Sagittarius A* black hole" width="312" height="312"/><figcaption>Scientists around the world worked together to take the first photo ever of Sagittarius A*, the supermassive black hole at the center of the Milky Way galaxy.&nbsp;Credit: Event Horizon Telescope</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>At the center of the Milky Way is a giant black hole, and for the first time ever,&nbsp;<a href="#">astronomers were able to see it</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Black holes don't have surfaces, like planets or stars. Instead, these mysterious cosmic objects have a boundary called an "event horizon," a point of no return. If anything swoops too close to that point, it will fall inward, never to escape the hole's gravity.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With the power of eight linked radio dishes from around the world, the&nbsp;<a href="#">Event Horizon Telescope took a picture</a>&nbsp;of the shadow of the supermassive black hole known as Sagittarius A*. Hundreds of scientists from 80 institutions around the globe worked together to collect, process, and piece together fragments of data to make the picture.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Up until three years ago, any depiction of a black hole was merely an artist's interpretation or a computer model. Now scientists have a snapshot of the real deal, which spans 27 million miles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With financial support from the National Science Foundation and other groups, scientists plan to enhance their technology to make the image drastically sharper.</p>
+<!-- /wp:paragraph -->

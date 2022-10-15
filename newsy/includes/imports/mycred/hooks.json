@@ -1,0 +1,175 @@
+{
+  "active": [
+    "publishing_content",
+    "registration",
+    "view_contents",
+    "comments",
+    "hook_bp_profile",
+    "site_visit",
+    "newsy_voting",
+    "newsy_reaction",
+    "hook_bbpress"
+  ],
+  "hook_prefs": {
+    "publishing_content": {
+      "post": {
+        "creds": "5",
+        "limit": "0/x",
+        "log": "%plural% for new Post"
+      },
+      "page": {
+        "limit": "0/x",
+        "log": "%plural% for new Page"
+      }
+    },
+    "registration": {
+      "creds": "10",
+      "log": "%plural% for becoming a member"
+    },
+    "view_contents": {
+      "post": {
+        "creds": "1",
+        "limit": "1/d",
+        "acreds": "1",
+        "alimit": "1/d",
+        "log": "%plural% for viewing a post",
+        "alog": "%plural% for view of your post"
+      },
+      "page": {
+        "limit": "0/x",
+        "alimit": "0/x",
+        "log": "%plural% for viewing a page",
+        "alog": "%plural% for view of your page"
+      }
+    },
+    "comments": {
+      "approved": {
+        "creds": "1",
+        "log": "%plural% for Approved Comment"
+      },
+      "limits": {
+        "per_post": 1,
+        "per_day": 1,
+        "self_reply": 0
+      },
+      "spam": {
+        "creds": "-5",
+        "log": "%plural% deduction for Comment marked as SPAM"
+      },
+      "trash": {
+        "creds": "-1",
+        "log": "%plural% deduction for deleted / unapproved Comment"
+      }
+    },
+    "hook_bp_profile": {
+      "update": {
+        "creds": "1",
+        "limit": "0/x",
+        "log": "%plural% for updating profile"
+      },
+      "removed_update": {
+        "creds": "-1",
+        "limit": "0/x",
+        "log": "%plural% for removing profile update"
+      },
+      "avatar": {
+        "creds": "1",
+        "limit": "0/x",
+        "log": "%plural% for new avatar"
+      },
+      "cover": {
+        "creds": "1",
+        "limit": "0/x",
+        "log": "%plural% for new cover photo"
+      },
+      "new_friend": {
+        "creds": "1",
+        "limit": "0/x",
+        "log": "%plural% for new friendship",
+        "block": 0
+      },
+      "leave_friend": {
+        "creds": "-1",
+        "log": "%singular% deduction for losing a friend"
+      },
+      "new_comment": {
+        "creds": "1",
+        "limit": "0/x",
+        "log": "%plural% for new comment"
+      },
+      "delete_comment": {
+        "creds": "-1",
+        "log": "%singular% deduction for comment removal"
+      },
+      "add_favorite": {
+        "creds": "1",
+        "limit": "0/x",
+        "log": "%plural% for adding an activity to favorites"
+      },
+      "remove_favorite": {
+        "creds": "-1",
+        "log": "%singular% deduction for removing favorite activity"
+      },
+      "message": {
+        "creds": "1",
+        "limit": "0/x",
+        "log": "%plural% for sending a message"
+      },
+      "send_gift": {
+        "creds": "1",
+        "limit": "0/x",
+        "log": "%plural% for sending a gift"
+      }
+    },
+    "site_visit": {
+      "creds": "1",
+      "log": "%plural% for site visit"
+    },
+    "newsy_voting": {
+      "creds": "1",
+      "log": "Voted on %post_title% with: %vote%"
+    },
+    "newsy_reaction": {
+      "creds": "1",
+      "log": "Reacted to %post_title% with: %reaction%"
+    },
+    "hook_bbpress": {
+      "new_forum": {
+        "creds": "1",
+        "limit": "0/x",
+        "log": "%plural% for new forum"
+      },
+      "delete_forum": {
+        "creds": "0",
+        "log": "%singular% deduction for deleted forum"
+      },
+      "new_topic": {
+        "creds": "1",
+        "limit": "0/x",
+        "log": "%plural% for new forum topic",
+        "author": 1
+      },
+      "delete_topic": {
+        "creds": "0",
+        "log": "%singular% deduction for deleted topic"
+      },
+      "fav_topic": {
+        "creds": "1",
+        "limit": "0/x",
+        "log": "%plural% for someone favorited your forum topic"
+      },
+      "new_reply": {
+        "creds": "1",
+        "limit": "0/x",
+        "log": "%plural% for new forum reply",
+        "author": 1
+      },
+      "delete_reply": {
+        "creds": "0",
+        "log": "%singular% deduction for deleted reply"
+      },
+      "show_points_in_reply": 0,
+      "show_points_in_profile": 0
+    }
+  }
+}

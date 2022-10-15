@@ -1,0 +1,145 @@
+<!-- wp:paragraph -->
+<p>Life’s challenges force us to harden up. Relationships, work, children, family and finances all combine to put us under a lot of pressure and the way we are expected to deal with these is to develop resilience and to some extent indifference. <strong><a href="http://demo.akbilisim.com/newsy">We are required to be tough</a></strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To teach our kids to be tough and with each blow life delivers to knock us down, we need to get up, dust ourselves off and pick up where we left off. The more times we start again, the colder and more jaded we become.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>What you truly desire. Imagine what you could</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Some people believe that showing tough love is an important way to ensure that their children are able to take care of themselves in the future. If you were the recipient of this approach on a regular basis, you might even believe that this has had a positive impact on your life.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":%%ak-media-10%%,"align":"center"} -->
+<div class="wp-block-image"><figure class="aligncenter"><a href="%attachment_url%ak-media-10%attachment_url%"><img src="%attachment_url%ak-media-10%attachment_url%" alt="Everyone’s parents criticize from time to time." class="wp-image-%%ak-media-10%%"/></a><figcaption>Everyone’s parents criticize from time to time.</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Perhaps what’s needed is a shift in attitude. To become stronger and resistant to the tribulations of life, maybe the answer is that we need to become <strong>softer not tougher</strong>. Maybe what the world needs is more nurture.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you don’t know much about your subscribers, you could consider running a campaign asking them for more details through a simple preference centre. You may wish to consider offering an incentive or freebie in exchange for this information, which will help boost your response rates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p> <strong>Do something that pushes your boundaries, something that you wouldn’t ordinarily do. Take a calculated risk and allow yourself to crumble a little.</strong> </p><cite>John Doe</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>All parents occasionally pick on their children, but when the so-called jokes become commonplace, this can be a huge problem. You do not need to accept this type of behavior just because your parent has always joked about something such as your height or weight.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A great place to start is with a minimal template and if you’re looking for a quick fix, check out Dynamite – it’s a great example of how an elegant design and the use of whitespace can be highly effective in highlighting what you are promoting.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Tips For Increasing Employee Motivation</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Without injuring others or placing your own life in danger, it’s healthy to let go sometimes. You don’t have to be irresponsible to release responsibility and embrace freedom for a change. When life is becoming too burdensome and the weight of obligation and duty seems suffocating, do something that allows you to release yourself from what can feel like a prison.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It’s easy to forget that your subscribers are people with likes and dislikes (not just leads). Firstly, always watch your open, CTR, unsubscribe and complaint rates. That’s the fast way to gauge whether your email was engaging or not. When appropriate, use what personalisation you have at your disposal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"ids":[%%ak-media-11%%,%%ak-media-12%%,%%ak-media-13%%,%%ak-media-14%%,%%ak-media-15%%,%%ak-media-16%%],"linkTo":"media"} -->
+<ul class="wp-block-gallery columns-3 is-cropped">
+<li class="blocks-gallery-item"><figure><a href="%attachment_url%ak-media-11%attachment_url%"><img src="%attachment_url%ak-media-11%attachment_url%" alt="" data-id="%%ak-media-11%%" class="wp-image-%%ak-media-11%%"/></a></figure></li>
+<li class="blocks-gallery-item"><figure><a href="%attachment_url%ak-media-12%attachment_url%"><img src="%attachment_url%ak-media-12%attachment_url%" alt="" data-id="%%ak-media-12%%" class="wp-image-%%ak-media-12%%"/></a></figure></li>
+<li class="blocks-gallery-item"><figure><a href="%attachment_url%ak-media-13%attachment_url%"><img src="%attachment_url%ak-media-13%attachment_url%" alt="" data-id="%%ak-media-13%%" class="wp-image-%%ak-media-13%%"/></a></figure></li>
+<li class="blocks-gallery-item"><figure><a href="%attachment_url%ak-media-14%attachment_url%"><img src="%attachment_url%ak-media-14%attachment_url%" alt="" data-id="%%ak-media-14%%" class="wp-image-%%ak-media-14%%"/></a></figure></li>
+<li class="blocks-gallery-item"><figure><a href="%attachment_url%ak-media-15%attachment_url%"><img src="%attachment_url%ak-media-15%attachment_url%" alt="" data-id="%%ak-media-15%%" class="wp-image-%%ak-media-15%%"/></a></figure></li>
+<li class="blocks-gallery-item"><figure><a href="%attachment_url%ak-media-16%attachment_url%"><img src="%attachment_url%ak-media-16%attachment_url%" alt="" data-id="%%ak-media-16%%" class="wp-image-%%ak-media-16%%"/></a></figure></li></ul>
+<!-- /wp:gallery -->
+
+<!-- wp:paragraph -->
+<p>If you want to take it to the next level and gauge subscriber sentiment, you could generate feedback by adding a simple <i>“Did you find this email useful?”</i> line in your footer that leads subscribers to a survey. Keep it short and concise though; you’re not after <i>War and Peace</i>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If a survey seems like too much commitment, check out this fun widget. You never know, this feedback may just generate the next idea that takes your email program to the next level.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Most email service providers have inbuilt mobile optimized templates, but if yours doesn’t/you want something custom and have budget to spare, consider hiring an email marketing developer on Envato Studio or Upwork. Just ensure you do you research and ask for previous work examples before you hire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":%%ak-media-21%%,"align":"left","width":349,"height":233} -->
+<div class="wp-block-image"><figure class="alignleft is-resized"><img src="%attachment_url%ak-media-21%attachment_url%" alt="" class="wp-image-%%ak-media-21%%" width="349" height="233"/><figcaption> Ways to beat stress at work </figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Did you grow up believing that your parent was physically or emotionally abusive to you because you deserved it? If so, you may still be justifying the terrible behavior of others at your own expense.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Get In Touch With Emotions</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Discover how you really feel about things. It’s easier said than done. <em>Instead of maintaining</em> the status quo and keeping the peace.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Instead of following the herd and making the predictable and reliable decisions that you are expected to make, ask yourself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What you truly desire. Imagine what you could accomplish, if failing wasn’t an option.If there was no fear of being judged and no adverse consequences.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If there was no fear of being judged and no adverse consequences reliable decisions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Learning to acknowledge and express our emotions freely may seem like weakness in a culture that requires us to be tough, but in actual fact it takes a strength far more valuable and honorable than living in denial.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Use the “Spaced Repetition” technique</li><li>Try the “Pinch Yourself” hack</li><li>Schedule learning sessions before bedtime</li><li>Study the content, not the language</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>This technique was introduced by Maneesh Sethi, a frequent traveler who mastered four foreign languages as an adult. His approach was based on the fact that negative stimuli massively boost self-improvement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Soft is the new hard</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>When you think that a situation requires you to be tough, to stiffen your upper lip and puff out your chest in the face of something difficult or even traumatic, consider if you have another option. Maybe for a change it’s time to wallow in the tragedy of your experience and really feel what it is to be human. Striving for mental toughness may close you off to a world of emotional development and progress that you may otherwise live through if you let yourself open up for a change.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":%%ak-media-25%%,"align":"right","width":316,"height":197} -->
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="%attachment_url%ak-media-25%attachment_url%" alt="" class="wp-image-%%ak-media-25%%" width="316" height="197"/><figcaption> Soft is the new hard </figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>How you can use this for language learning?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Get a set of flashcards for memorizing vocabulary or grammar.</li><li>Master the hard pinch (it should be quite hard) to activate your body’s threat response.</li><li>Review a category of flash cards (such as adjectives or group of words). Don’t pinch yourself at this stage.</li><li>Review the same category, now adding the pinch for each vocabulary word. Spend some time studying the card before moving to the next one.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Softening your perspective towards yourself and others; allowing yourself to experience tenderness and nurturing instead may seem counterproductive, but in the long run, may reap more abundant rewards.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Tough is just bravado</em></strong>. Softening up is a new normal you should try.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You may feel sadness more intensely, or anger. Disappointment, fear, grief. The flip side is you may discover joy like you’ve never allowed yourself to feel before. You may laugh harder, feel more inspired, encounter wonder and awe at things you previously took for granted.</p>
+<!-- /wp:paragraph -->

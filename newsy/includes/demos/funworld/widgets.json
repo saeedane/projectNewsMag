@@ -1,0 +1,125 @@
+{
+  "primary-sidebar": {
+    "newsy_author_box-3": {
+      "author": "1",
+      "desc_length": "255"
+    },
+    "newsy_list_2_wide-4": {
+      "title": "Trending",
+      "icon": "akfi-trending_up",
+      "header_style": "style-12",
+      "header_line_color": "rgba(0,0,0,0)",
+      "header_title_color": "#8224e3",
+      "header_icon_color": "#8224e3",
+      "block_accent_color": "#8224e3",
+      "count": "7",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_author_icon": "hide",
+        "show_author": "hide",
+        "show_date": "hide",
+        "show_category_type": "badge"
+      },
+      "item_margin": "30",
+      "block_extra_classes": "ak-block-module-thumb-round",
+      "numeric_items_style": "style-3"
+    }
+  },
+  "footer-1": {
+    "newsy_list_1_small_square-3": {
+      "title": "Just In",
+      "header_style": "style-11",
+      "count": "3",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_meta": "hide"
+      },
+      "item_margin": "10"
+    }
+  },
+  "footer-2": {
+    "newsy_about_us-3": {
+      "image": "%attachment_url%ak-newsy-logo-dark%attachment_url%",
+      "logo_text": "Newsy",
+      "description": "Newsy is the useful and powerful WordPress Theme, Viral theme with great attention to details, incredible features, an intuitive user interface and everything else you need to create outstanding websites.",
+      "about_link_text": "Read More",
+      "social_sites_color": "colored",
+      "layout_align": "center",
+      "item_margin": "30"
+    },
+    "newsy_mailchimp-4": {
+      "mailchimp_url": "#",
+      "input_alt": "You can unsubscribe at any time",
+      "style": "style-6",
+      "text_align": "center",
+      "form_layout": "Horizontal"
+    }
+  },
+  "footer-3": {
+    "newsy_block_header-3": {
+      "title": "Follow us on Instagram",
+      "header_style": "style-11",
+      "item_margin": "30"
+    },
+    "newsy_instagram-3": {
+      "method": "username",
+      "username": "envato",
+      "column": "3",
+      "row": "2",
+      "item_margin": "5",
+      "sort": "most_recent"
+    }
+  },
+  "post-sidebar": {
+    "newsy_mailchimp-5": {
+      "color": "#dd3333",
+      "title": "News moves fast. Keep up with the NewsyFeed News daily email!",
+      "msg": "Subscribe to our top stories",
+      "mailchimp_url": "https:\/\/akbilisim.us16.list-manage.com\/subscribe\/post?u=5472afed7f687968b03e85a2c&id=e558fd5037",
+      "input_alt": "You can unsubscribe at any time",
+      "style": "style-4",
+      "form_layout": "Horizontal",
+      "block_extra_classes": "ak-block-boxed"
+    },
+    "newsy_list_2_wide-5": {
+      "title": "Trending Now",
+      "icon": "akfi-trending_up",
+      "header_style": "style-12",
+      "header_line_color": "rgba(0,0,0,0)",
+      "header_title_color": "#8224e3",
+      "header_icon_color": "#8224e3",
+      "block_accent_color": "#8224e3",
+      "count": "5",
+      "order_by": "popular_week",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_meta": "hide",
+        "show_category": "hide"
+      },
+      "block_extra_classes": "ak-block-module-thumb-round",
+      "item_margin": "30",
+      "numeric_items_style": "style-4"
+    },
+    "newsy_social_counter-3": {
+      "social_sites": "facebook,twitter,youtube,instagram,pinterest",
+      "style": "style-3",
+      "color_style": "colored",
+      "item_margin": "30"
+    },
+    "newsy_facebook_likebox-3": {
+      "page": "http:\/\/www.facebook.com\/envato",
+      "show_posts": "hide",
+      "locate": "en_US"
+    }
+  }
+}

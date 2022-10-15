@@ -1,0 +1,100 @@
+{
+  "primary-sidebar": {
+    "newsy_list_2_wide-3": {
+      "title": "Weekly Popular",
+      "count": "5",
+      "order_by": "popular_week",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_author_icon": "hide",
+        "show_author": "hide",
+        "show_comment_count": "hide",
+        "show_date": "hide"
+      },
+      "item_margin": "30"
+    }
+  },
+  "footer-2": {
+    "newsy_list_1_small-2": {
+      "title": "Quizzess",
+      "count": "3",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "item_margin": "30"
+    }
+  },
+  "footer-3": {
+    "newsy_popular_categories-2": {
+      "title": "Categories",
+      "count": "7"
+    }
+  },
+  "post-sidebar": {
+    "newsy_facebook_likebox-2": {
+      "title": "",
+      "page": "http:\/\/www.facebook.com\/envato",
+      "show_posts": "hide",
+      "show_faces": "hide",
+      "locate": "en_US"
+    },
+    "newsy_list_2_wide-2": {
+      "title": "Today's Top Posts",
+      "header_style": "style-1",
+      "header_line_color": "#ee3322",
+      "header_title_color": "#ee3322",
+      "count": "7",
+      "order_by": "popular_week",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_author_icon": "hide",
+        "show_author": "hide",
+        "show_comment_count": "hide",
+        "show_share_count": "hide",
+        "show_date": "hide",
+        "show_category": "hide"
+      },
+      "block_extra_classes": "ak-block-module-seperator-line",
+      "item_margin": "20",
+      "numeric_items_style": "style-1"
+    },
+    "newsy_social_counter-2": {
+      "social_sites": "facebook,twitter,youtube,instagram,rss",
+      "style": "style-1",
+      "color_style": "light-box",
+      "title": "Connect With Community",
+      "header_style": "style-1",
+      "item_margin": "30"
+    }
+  },
+  "sidebar-buddypress-members": {
+    "bp_core_friends_widget-4": {
+      "max_friends": 5,
+      "friend_default": "active",
+      "link_title": true
+    },
+    "bp_groups_widget-3": {
+      "title": "Groups",
+      "max_groups": "5",
+      "group_default": "active",
+      "link_title": true
+    },
+    "mycred_widget_balance-3": {
+      "title": "My Balance",
+      "type": "mycred_default",
+      "cred_format": "%cred_f%",
+      "show_history": 0,
+      "history_title": "%plural% History",
+      "history_format": "%entry% <span class=\"creds\">%cred_f%<\/span>",
+      "number": 5,
+      "show_visitors": 0,
+      "message": "<a href=\"%login_url_here%\">Login<\/a> to view your balance."
+    }
+  }
+}

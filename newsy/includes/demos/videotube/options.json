@@ -1,0 +1,370 @@
+{
+  "site_layout": "style-3",
+  "site_width": "1400px",
+  "site_grid": "hide",
+  "site_grid_item_margin": "5",
+  "site_loop": "newsy_list_2",
+  "site_loop_posts_count": "16",
+  "site_loop_pagination": "load_more",
+  "site_block_width": "4",
+  "site_loop_item_margin": "40",
+  "builder_header_desktop": {
+    "order": ["top", "mid", "bottom"],
+    "top": {
+      "left": { "layout": "grow", "align": "left" },
+      "center": { "layout": "normal", "align": "center" },
+      "right": { "layout": "normal", "align": "right" }
+    },
+    "mid": {
+      "layout": "stretched",
+      "left": {
+        "layout": "grow",
+        "align": "left",
+        "items": ["menu_handler", "logo"]
+      },
+      "center": {
+        "layout": "grow",
+        "align": "center",
+        "items": ["search_form"]
+      },
+      "right": {
+        "layout": "grow",
+        "align": "right",
+        "items": ["main_menu", "button1", "user", "dark_mode"]
+      }
+    },
+    "bottom": {
+      "scheme": "dark",
+      "left": { "layout": "grow", "align": "left" },
+      "center": { "layout": "normal", "align": "center" },
+      "right": { "layout": "normal", "align": "right" }
+    }
+  },
+  "builder_header_mobile": {
+    "mobile": {
+      "scheme": "dark",
+      "left": { "layout": "grow", "align": "left", "items": ["menu_handler"] },
+      "center": {
+        "layout": "normal",
+        "align": "center",
+        "items": ["mobile_logo"]
+      },
+      "right": { "layout": "grow", "align": "right", "items": ["search"] }
+    },
+    "mobile_menu": {
+      "left": { "layout": "grow", "align": "left" },
+      "center": { "layout": "normal", "align": "center" },
+      "right": { "layout": "grow", "align": "right" }
+    }
+  },
+  "builder_header_sticky": {
+    "sticky": {
+      "layout": "stretched",
+      "left": {
+        "layout": "grow",
+        "align": "left",
+        "items": ["menu_handler", "logo"]
+      },
+      "center": {
+        "layout": "grow",
+        "align": "center",
+        "items": []
+      },
+      "right": {
+        "layout": "grow",
+        "align": "right",
+        "items": ["button1", "user"]
+      }
+    }
+  },
+  "builder_drawer": {
+    "drawer": {
+      "left": {
+        "layout": "grow",
+        "align": "left",
+        "items": ["top_menu", "mobile_menu"]
+      },
+      "center": { "layout": "normal", "align": "center" },
+      "right": {
+        "layout": "grow",
+        "align": "right",
+        "items": ["social_icons", "footer_copyright"]
+      }
+    }
+  },
+  "header_mid_bar_style": {
+    "border": {
+      "bottom": {
+        "style": "solid",
+        "width": "1px",
+        "color": "rgba(104,104,104,0.13)"
+      }
+    }
+  },
+  "header_mid_height": "70",
+  "header_sticky_height": "70",
+  "header_mobile_bar_style": { "background": { "color": "#272727" } },
+  "always_visible_drawer": "active",
+  "logo_image": "%attachment_url%ak-newsy-logo%attachment_url%",
+  "logo2x_image": "%attachment_url%ak-newsy-logo2x%attachment_url%",
+  "logo_dark_image": "%attachment_url%ak-newsy-logo-dark%attachment_url%",
+  "logo2x_dark_image": "%attachment_url%ak-newsy-logo-dark2x%attachment_url%",
+  "main_menu_style": "style-6",
+  "main_menu_a_hover_color": "#ed145b",
+  "main_menu_bottom_border_hover_color": "#ed145b",
+  "typ_top_bar_date": { "size": "14px", "line-height": "35px" },
+  "header_social_icons": "facebook,twitter,youtube,instagram,pinterest",
+  "header_search_form_width": "100",
+  "header_search_form_style": "rounded",
+  "header_search_form_hover_border_color": "rgba(119,119,119,0.07)",
+  "header_login_button": { "text": "Login", "icon": "fa-lock" },
+  "header_newsticker": { "order_by": "latest" },
+  "header_button_create": { "text": "Create" },
+  "header_button1": {
+    "text": "Submit Video",
+    "icon": "fa-upload",
+    "link": "/editor",
+    "style": "outline",
+    "bg_color": "rgba(255,255,255,0)",
+    "bg_hover_color": "rgba(10,10,10,0)",
+    "border_color": "#c1c1c1",
+    "border_hover_color": "#000000"
+  },
+  "builder_footer": {
+    "order": ["top", "mid", "bottom"],
+    "top": {
+      "left": { "layout": "grow", "align": "left" },
+      "center": { "layout": "normal", "align": "center" },
+      "right": { "layout": "grow", "align": "right" }
+    },
+    "mid": {
+      "left": {
+        "layout": "grow",
+        "align": "left",
+        "items": ["footer_social_icons"]
+      },
+      "center": {
+        "layout": "normal",
+        "align": "center",
+        "items": ["footer_logo"]
+      },
+      "right": {
+        "layout": "grow",
+        "align": "right",
+        "items": ["footer_button1"]
+      }
+    },
+    "bottom": {
+      "left": { "layout": "grow", "align": "left" },
+      "center": {
+        "layout": "normal",
+        "align": "center",
+        "items": ["footer_menu"]
+      },
+      "right": { "layout": "grow", "align": "right" }
+    }
+  },
+  "footer_top_height": "195",
+  "footer_mid_bar_style": { "background": { "color": "rgb(247,247,247)" } },
+  "footer_menu_style": "style-5",
+  "footer_social_icons": "youtube,facebook,twitter,instagram",
+  "footer_social_icons_style": "light-circle",
+  "footer_copyright": "\u00a9 #year# <a href=\"#siteurl#\" title=\"#title#\">#sitename#</a> - #title#  theme by <a href=\"http://akbilisim.com\" title=\"akbilisim\">akbilisim</a>.",
+  "footer_button1": {
+    "text": "Join VideoTube Plus",
+    "link": "/subscription",
+    "style": "round",
+    "bg_color": "rgba(255,255,255,0)",
+    "bg_hover_color": "#ff0036",
+    "border_color": "rgba(255,255,255,0.19)",
+    "border_hover_color": "#ff0036"
+  },
+  "home_grid_item_margin": "5",
+  "post_template": "style-12",
+  "post_show_next_prev": "hide",
+  "post_show_author_box": "hide",
+  "post_featured_video_autoplay": "yes",
+  "builder_post_sticky": {
+    "order": ["sticky"],
+    "sticky": {
+      "left": {
+        "layout": "grow",
+        "align": "left",
+        "items": ["menu_handler", "post_title"]
+      },
+      "center": { "layout": "normal", "align": "center" },
+      "right": { "layout": "grow", "align": "right", "items": ["post_share"] }
+    }
+  },
+  "post_layout": "style-1",
+  "post_layout_style": "full-width",
+  "post_width": "1200px",
+  "post_meta": "style-2",
+  "post_social_share_sites": "facebook,twitter,pinterest,reddit,email",
+  "post_social_share_style": "style-2",
+  "post_social_share_bottom": "hide",
+  "post_voting_up_icon": "fa-thumbs-up",
+  "post_voting_down_icon": "fa-thumbs-down",
+  "views_ranking": [
+    { "view": "1", "icon": "fa-eye" },
+    { "view": "500", "icon": "akfi-fire", "color": "#edaa02" },
+    { "view": "1000", "icon": "akfi-power", "color": "#d88531" },
+    { "view": "2000", "icon": "fa-rocket", "color": "#c44b2d" },
+    { "view": "3500", "icon": "akfi-rocket", "color": "#d40808" },
+    { "view": "5000", "icon": "akfi-trending_up", "color": "#ff3a3a" }
+  ],
+  "post_related_type": "hide",
+  "post_related_loop": "newsy_list_2",
+  "post_related_loop_posts_count": "6",
+  "post_related_loop_pagination": "infinity",
+  "post_related_loop_item_margin": "40",
+  "post_related_block_classes": "ak-block-module-center-elements",
+  "post_comments_form_remove_url": "yes",
+  "category_header_style": "style-7",
+  "category_header_css": {
+    "background": {
+      "color": "#000000",
+      "image": {
+        "img": "%attachment_url%ak-media-header-pattern%attachment_url%",
+        "type": "repeat"
+      }
+    }
+  },
+  "category_grid_item_margin": "5",
+  "category_loop": "newsy_list_2_wide",
+  "category_loop_custom_parts": {
+    "show_excerpt": "hide",
+    "show_comment_count": "hide",
+    "show_share_count": "hide",
+    "date_format": "ago",
+    "show_category": "hide"
+  },
+  "archive_layout": "style-3",
+  "archive_loop": "newsy_list_3",
+  "archive_block_width": "4",
+  "tag_grid": "hide",
+  "tag_grid_item_margin": "5",
+  "tag_loop": "newsy_list_3",
+  "search_layout_style": "full-width",
+  "search_width": "1000px",
+  "search_loop": "newsy_list_1_medium",
+  "site_highlight_color": "#ff0036",
+  "site_block_color": "#113f84",
+  "typo_body_font": { "family": "Roboto", "variant": "400", "subset": "latin" },
+  "typo_heading": { "family": "Roboto", "variant": "500", "subset": "latin" },
+  "typ_header_menu": {
+    "size": "12px",
+    "letter-spacing": "0.02em",
+    "transform": "uppercase"
+  },
+  "typ_top_bar_menu": {
+    "family": "Work Sans",
+    "variant": "600",
+    "subset": "latin",
+    "size": "14px",
+    "line-height": "40px"
+  },
+  "top_bar_menu_a_hover_color": "#ed145b",
+  "typo_single_post_title": {
+    "family": "Roboto",
+    "variant": "700",
+    "subset": "latin"
+  },
+  "typo_single_post_summary": { "size": "20px" },
+  "typo_single_post_content": {
+    "family": "Roboto",
+    "variant": "400",
+    "subset": "latin",
+    "size": "17px"
+  },
+  "typo_general_block_header_title": {
+    "family": "Muli",
+    "transform": "uppercase"
+  },
+  "typo_meta_category": {
+    "size": "15px",
+    "letter-spacing": "0.18px",
+    "transform": "uppercase"
+  },
+  "block_header_style": "style-11",
+  "block_loader_type": "cube",
+  "block_load_more_bg_color": "#ffffff",
+  "block_load_more_text_color": "#515151",
+  "block_load_more_border_color": "#171d67",
+  "typo_title": { "size": "16px" },
+  "typo_meta": { "color": "rgba(0,0,0,0.38)" },
+  "module_1_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_date": "hide",
+    "show_category": "hide"
+  },
+  "module_1_small_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago"
+  },
+  "module_1_small_square_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide"
+  },
+  "module_1_wide_parts": { "show_author_icon": "hide", "show_author": "hide" },
+  "module_2_parts": {
+    "show_excerpt": "hide",
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_comment_count": "hide",
+    "show_share_count": "hide",
+    "date_format": "ago",
+    "show_category": "hide"
+  },
+  "module_2_wide_parts": {
+    "show_excerpt": "hide",
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category": "hide"
+  },
+  "module_2_tall_parts": { "show_author_icon": "hide", "show_author": "hide" },
+  "module_3_parts": { "show_category_type": "inline_badge" },
+  "module_5_parts": { "show_author_icon": "hide", "show_author": "hide" },
+  "module_9_parts": { "show_author_icon": "hide", "show_author": "hide" },
+  "module_10_parts": { "show_author_icon": "hide", "show_author": "hide" },
+  "module_grid_big_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge",
+    "show_badge_icon": "hide"
+  },
+  "module_grid_small_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge",
+    "show_badge_icon": "hide"
+  },
+  "module_grid_tall_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge",
+    "show_badge_icon": "hide"
+  },
+  "module_grid_wide_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_comment_count": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge",
+    "show_badge_icon": "hide"
+  },
+  "module_grid_wide_big_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge",
+    "show_badge_icon": "hide"
+  },
+  "_custom_header_code": "<style>\n.container,\n.vc-content .vc_column_container {\n  padding-right: 30px;\n  padding-left: 30px;\n}\n.ak-bar.stretched .container {\n\tpadding-left: 20px;\n}\n</style>"
+}

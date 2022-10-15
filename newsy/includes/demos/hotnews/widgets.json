@@ -1,0 +1,134 @@
+{
+  "primary-sidebar": {
+    "newsy_mailchimp-10": {
+      "title": "Subscribe to Email Updates",
+      "msg": "Subscribe to receives daily updates direct to your inbox!",
+      "mailchimp_url": "https://akbilisim.us16.list-manage.com/subscribe/post?u=5472afed7f687968b03e85a2c&id=e558fd5037",
+      "input_alt": "You can unsubscribe at any time",
+      "style": "style-7"
+    },
+    "newsy_ad-37": {
+      "type": "image",
+      "image": "%%ak-ad-350X300%%",
+      "image_link": "#"
+    },
+    "newsy_block_header-5": {
+      "title": "Headlines",
+      "header_style": "style-5",
+      "header_title_color": "rgb(0,0,0)"
+    },
+    "newsy_slider_5-4": {
+      "gradient": "tg-gradient tg-focus",
+      "grid_height": "400",
+      "category": "%%ak-featured%%",
+      "nav_width": "60",
+      "slider_count": "10",
+      "slider_speed": "250",
+      "slider_scroll_items": "1",
+      "slider_item_margin": "15",
+      "slider_nav": "style-3",
+      "slider_dots": "enabled",
+      "slider_autoplay_timeout": "3000",
+      "slider_autoplay_speed": "1000",
+      "order_by": "latest"
+    }
+  },
+  "secondary-sidebar": {
+    "newsy_list_10-11": {
+      "title": "HOTTEST STUFF",
+      "header_style": "style-11",
+      "count": "7",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_meta": "hide",
+        "show_category": "hide"
+      },
+      "item_margin": "30"
+    },
+    "newsy_social_counter-26": {
+      "social_sites": "facebook,twitter,youtube,instagram,soundcloud",
+      "style": "style-4",
+      "color_style": "colored",
+      "title": "FOLLOW US",
+      "header_style": "style-11",
+      "item_margin": "30"
+    }
+  },
+  "footer-1": {
+    "newsy_about_us-9": {
+      "image": "%attachment_url%ak-newsy-logo-dark%attachment_url%",
+      "logo_text": "newsy",
+      "description": "We bring you the best Premium WordPress Themes that perfect for news, magazine, personal blog, etc. Check our landing page for details.",
+      "about_link_text": "Read More",
+      "about_link_url": "#",
+      "social_sites": "facebook,twitter,instagram,rss",
+      "social_sites_color": "light-box",
+      "title": "About",
+      "header_style": "style-5",
+      "header_title_color": "rgb(255,255,255)"
+    }
+  },
+  "footer-2": {
+    "newsy_list_1_small_square-21": {
+      "title": "Trending Posts",
+      "header_style": "style-5",
+      "header_title_color": "rgb(255,255,255)",
+      "count": "3",
+      "order_by": "popular_week",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_author_icon": "hide",
+        "show_author": "hide",
+        "show_comment_count": "hide",
+        "show_share_count": "hide",
+        "show_view_count": "hide"
+      },
+      "block_extra_classes": "ak-block-module-thumb-round",
+      "item_margin": "30"
+    }
+  },
+  "footer-3": {
+    "newsy_popular_categories-24": {
+      "count": "6",
+      "order_by": "count",
+      "order": "DESC",
+      "block_width": "2",
+      "title": "Categories",
+      "header_style": "style-5",
+      "header_title_color": "rgb(255,255,255)"
+    },
+    "tag_cloud-9": { "title": "", "count": 0, "taxonomy": "post_tag" }
+  },
+  "post-sidebar": {
+    "newsy_social_counter-27": {
+      "social_sites": "facebook,twitter,instagram,youtube",
+      "style": "style-2",
+      "color_style": "light-square",
+      "title": "Stay Connected",
+      "header_style": "style-5",
+      "header_title_color": "rgb(0,0,0)",
+      "item_margin": "30"
+    },
+    "newsy_ad-36": { "type": "image", "image": "%%ak-ad-350X300%%" },
+    "newsy_block_3-12": {
+      "title": "Hot Right Now",
+      "header_style": "style-5",
+      "header_title_color": "rgb(0,0,0)",
+      "count": "4",
+      "offset": "25",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "module_3_custom_enabled": "yes",
+      "module_3_custom_parts": { "show_meta": "hide" },
+      "block_extra_classes": "ak-block-module-thumb-round",
+      "item_margin": "30"
+    }
+  }
+}

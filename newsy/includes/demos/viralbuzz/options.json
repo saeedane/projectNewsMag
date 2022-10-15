@@ -1,0 +1,401 @@
+{
+  "site_width": "1180px",
+  "site_bg_color": "#f4f4f4",
+  "builder_header_desktop": {
+    "order": ["top", "mid", "bottom"],
+    "top": {
+      "scheme": "dark",
+      "left": {
+        "items": ["top_menu"]
+      },
+      "right": {
+        "items": ["search_form", "social_icons", "divider1", "user"]
+      }
+    },
+    "mid": {
+      "left": {
+        "layout": "normal",
+        "items": ["logo"]
+      },
+      "right": {
+        "align": "left",
+        "items": ["main_menu"]
+      }
+    }
+  },
+  "builder_header_mobile": {
+    "mobile": {
+      "left": {
+        "items": ["menu_handler"]
+      },
+      "center": {
+        "items": ["logo"]
+      },
+      "right": {
+        "items": ["user"]
+      }
+    }
+  },
+  "builder_drawer": {
+    "drawer": {
+      "left": {
+        "items": ["logo", "mobile_menu"]
+      },
+      "center": {
+        "layout": "grow",
+        "align": "left"
+      },
+      "right": {
+        "align": "left",
+        "items": ["social_icons", "footer_copyright"]
+      }
+    }
+  },
+  "header_wrap_shadow": "active",
+  "header_top_bar_style": {
+    "background": {
+      "type": "gradient",
+      "gradient": {
+        "color": "#dd0098",
+        "sec_color": "#ff4f39",
+        "angle": "90"
+      }
+    }
+  },
+  "header_mid_height": "70",
+  "header_bottom_height": "80",
+  "logo_type": "image",
+  "logo_image": "%attachment_url%ak-newsy-logo%attachment_url%",
+  "logo2x_image": "%attachment_url%ak-newsy-logo2x%attachment_url%",
+  "logo_dark_image": "%attachment_url%ak-newsy-logo-dark%attachment_url%",
+  "logo2x_dark_image": "%attachment_url%ak-newsy-logo-dark2x%attachment_url%",
+  "main_logo_width": "150",
+  "typ_header_logo": {
+    "family": "Fira Sans",
+    "size": "35px"
+  },
+  "mobile_logo_type": "image",
+  "mobile_logo_image": "%attachment_url%ak-newsy-logo%attachment_url%",
+  "mobile_logo2x_image": "%attachment_url%ak-newsy-logo2x%attachment_url%",
+  "mobile_logo_dark_image": "%attachment_url%ak-newsy-logo-dark%attachment_url%",
+  "mobile_logo2x_dark_image": "%attachment_url%ak-newsy-logo-dark2x%attachment_url%",
+  "sticky_logo_type": "image",
+  "sticky_logo_image": "%attachment_url%ak-newsy-logo%attachment_url%",
+  "sticky_logo2x_image": "%attachment_url%ak-newsy-logo2x%attachment_url%",
+  "sticky_logo_dark_image": "%attachment_url%ak-newsy-logo-dark%attachment_url%",
+  "sticky_logo2x_dark_image": "%attachment_url%ak-newsy-logo-dark2x%attachment_url%",
+  "main_menu_fit_menu": "active",
+  "main_menu_style": "style-4",
+  "typ_top_bar_date": {
+    "color": "#e5e5e5"
+  },
+  "header_social_icons": "facebook,twitter,google,youtube,instagram",
+  "builder_footer": {
+    "order": ["top", "mid", "bottom"],
+    "mid": {
+      "left": {
+        "items": ["footer_logo"]
+      },
+      "right": {
+        "items": ["footer_menu"]
+      }
+    },
+    "bottom": {
+      "right": {
+        "align": "left"
+      }
+    }
+  },
+  "footer_bg_color": "#fafafa",
+  "footer_menu_style": "style-6",
+  "footer_logo_type": "image",
+  "footer_logo_image": "%attachment_url%ak-newsy-logo%attachment_url%",
+  "footer_logo2x_image": "%attachment_url%ak-newsy-logo2x%attachment_url%",
+  "footer_logo_dark_image": "%attachment_url%ak-newsy-logo-dark%attachment_url%",
+  "footer_logo2x_dark_image": "%attachment_url%ak-newsy-logo-dark2x%attachment_url%",
+  "footer_copyright": "\u00a9 #year# <a href=\"#siteurl#\" title=\"#title#\">#sitename#</a> - #title#  theme by <a href=\"http://akbilisim.com\" title=\"akbilisim\">akbilisim</a>.",
+  "category_header_style": "style-3",
+  "category_layout": "style-1",
+  "category_primary_sidebar": "category-sidebar",
+  "category_width": "1000px",
+  "category_boxed_inner_width": "1000px",
+  "category_grid": "hide",
+  "category_loop": "newsy_list_1_medium",
+  "category_loop_item_margin": "15",
+  "category_block_classes": "ak-block-module-boxed",
+  "post_template": "style-7",
+  "post_layout": "style-1",
+  "post_primary_sidebar": "post-sidebar",
+  "post_layout_style": "full-width",
+  "post_bg_color": "#ffffff",
+  "post_social_share_sites": "facebook,twitter,google_plus,linkedin,telegram,whatsapp,viber",
+  "post_social_share_style": "style-5",
+  "post_social_share_count": "total-each",
+  "post_autoload": "enabled",
+  "views_ranking": [
+    {
+      "view": "1",
+      "icon": "akfi-trending_up"
+    },
+    {
+      "view": "500",
+      "icon": "akfi-fire",
+      "color": "#edaa02"
+    },
+    {
+      "view": "1000",
+      "icon": "akfi-power",
+      "color": "#d88531"
+    },
+    {
+      "view": "2000",
+      "icon": "fa-rocket",
+      "color": "#c44b2d"
+    },
+    {
+      "view": "3500",
+      "icon": "akfi-rocket",
+      "color": "#d40808"
+    }
+  ],
+  "post_newsletter": {
+    "color": "#4974b0",
+    "title": "Want awesome tips in your inbox every week?",
+    "msg": "Sign up for newsletter!",
+    "mailchimp_url": "#",
+    "style": "style-4",
+    "form_layout": "Horizontal"
+  },
+  "post_related_type": "hide",
+  "post_comments_form_remove_url": "yes",
+  "search_block_classes": "ak-block-module-boxed",
+  "author_grid": "hide",
+  "author_block_classes": "ak-block-module-boxed",
+  "archive_block_classes": "ak-block-module-boxed",
+  "site_highlight_color": "#4974b0",
+  "site_block_color": "#4974b0",
+  "typo_body_font": {
+    "family": "Fira Sans",
+    "variant": "400",
+    "subset": "latin"
+  },
+  "typo_heading": {
+    "family": "Fira Sans",
+    "variant": "700",
+    "subset": "latin"
+  },
+  "typ_header_menu": {
+    "size": "16px",
+    "line-height": "35px",
+    "transform": "uppercase"
+  },
+  "main_menu_bottom_border_hover_color": "#4974b0",
+  "typ_top_bar_menu": {
+    "size": "13px",
+    "line-height": "35px",
+    "transform": "uppercase",
+    "color": "#ffffff"
+  },
+  "typo_single_post_title": {
+    "family": "Fira Sans",
+    "size": "38px"
+  },
+  "typo_single_post_summary": {
+    "family": "PT Sans",
+    "variant": "400",
+    "subset": "latin",
+    "size": "20px",
+    "line-height": "30px"
+  },
+  "typo_single_post_content": {
+    "family": "PT Sans",
+    "variant": "400",
+    "subset": "latin",
+    "size": "18px",
+    "line-height": "1.75rem"
+  },
+  "typo_title": {
+    "family": "Fira Sans",
+    "subset": "latin",
+    "size": "20px",
+    "color": "#000000"
+  },
+  "typo_summary": {
+    "family": "PT Sans",
+    "variant": "400",
+    "subset": "latin",
+    "size": "16px",
+    "line-height": "1.4rem",
+    "color": "#333333"
+  },
+  "typo_meta": {
+    "family": "PT Sans",
+    "variant": "400",
+    "subset": "latin",
+    "size": "13px",
+    "color": "#a2a2a2"
+  },
+  "typo_meta_author": {
+    "family": "PT Sans",
+    "variant": "400",
+    "subset": "latin",
+    "color": "#141414"
+  },
+  "block_header_style": "style-3",
+  "block_load_more_bg_color": "#4974b0",
+  "block_load_more_text_color": "#ffffff",
+  "block_load_more_hover_bg_color": "#4974b0",
+  "block_load_more_hover_border_color": "#ffffff",
+  "module_1_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide"
+  },
+  "module_1_large_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_category_type": "inline"
+  },
+  "module_1_medium_parts": {
+    "excerpt_length": "75",
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_category_type": "inline",
+    "category_limit": "5"
+  },
+  "module_1_small_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_date": "hide",
+    "date_format": "ago"
+  },
+  "module_1_small_square_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_date": "hide"
+  },
+  "module_1_wide_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide"
+  },
+  "module_2_parts": {
+    "show_excerpt": "hide",
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_category": "hide"
+  },
+  "module_2_wide_parts": {
+    "show_excerpt": "hide",
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_category": "hide"
+  },
+  "module_2_tall_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide"
+  },
+  "module_3_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_category": "hide"
+  },
+  "module_4_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide"
+  },
+  "module_5_parts": {
+    "show_author_icon": "hide"
+  },
+  "module_6_parts": {
+    "show_author_icon": "hide"
+  },
+  "module_7_parts": {
+    "show_author_icon": "hide"
+  },
+  "module_8_parts": {
+    "show_author_icon": "hide"
+  },
+  "module_9_parts": {
+    "show_author_icon": "hide"
+  },
+  "module_10_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_comment_count": "hide"
+  },
+  "module_11_parts": {
+    "show_author_icon": "hide"
+  },
+  "module_grid_big_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge"
+  },
+  "module_grid_small_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge"
+  },
+  "module_grid_tall_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge"
+  },
+  "module_grid_wide_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge"
+  },
+  "module_grid_wide_big_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge"
+  },
+  "cat_badge_style": {
+    "border-radius": {
+      "top-left": "4px",
+      "top-right": "4px",
+      "bottom-left": "4px",
+      "bottom-right": "4px"
+    },
+    "background": {
+      "type": "gradient",
+      "gradient": {
+        "color": "#dd0098",
+        "sec_color": "#ff4f39"
+      },
+      "color": "#4974b0"
+    }
+  },
+  "typo_meta_category": {
+    "family": "Fira Sans",
+    "variant": "400",
+    "subset": "latin",
+    "color": "#416faf"
+  },
+  "typo_cat_badge": {
+    "family": "Fira Sans",
+    "variant": "700",
+    "subset": "latin"
+  },
+  "module_featured_meta_style": {
+    "margin": {
+      "right": "5px",
+      "bottom": "5px"
+    },
+    "border-radius": {
+      "top-left": "4px",
+      "top-right": "4px",
+      "bottom-left": "4px",
+      "bottom-right": "4px"
+    }
+  },
+  "single_post_article_bottom_ad": {
+    "type": "image",
+    "image": "%%ak-ad-728X90%%"
+  }
+}

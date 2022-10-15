@@ -1,0 +1,20 @@
+<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap" id="has-drop-cap">The perfect fusion of fashion and sport. This girls polo dress blends the best of both worlds so she can stay ahead of the trend. A ruffle skirt adds a feminine twist. Bright pops of color on the 3-stripes and embroidered logo give her stand-out adidas style.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>
+<ul>
+<li>Adidas brandmark embroidery at left chest</li>
+<li>Dazzle stripes</li>
+<li>Imported</li>
+<li>The short sleeve polo dress features a rib collar and triple ruffle skirt</li>
+<li>Savings Based On Offering Prices</li>
+</ul>
+<h3>Materials Care</h3>
+<ul>
+<li>100% Polyester</li>
+<li>Machine Washable</li>
+</ul>
+</p>
+<!-- /wp:paragraph -->

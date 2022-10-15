@@ -1,0 +1,39 @@
+{
+  "primary-sidebar": {
+    "newsy_list_2_wide-2": {
+      "title": "Trending",
+      "count": "7",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "item_margin": "30"
+    },
+    "newsy_popular_categories-3": {
+      "count": "10",
+      "order_by": "count",
+      "order": "DESC",
+      "show-cat-icon": "hide",
+      "title": "Categories",
+      "item_margin": "30"
+    }
+  },
+  "footer-2": {
+    "newsy_list_1_small-2": {
+      "title": "Quizzess",
+      "count": "3",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "item_margin": "30"
+    }
+  },
+  "footer-3": {
+    "newsy_popular_categories-2": {
+      "count": "7",
+      "order_by": "count",
+      "order": "DESC",
+      "title": "Categories",
+      "item_margin": "30"
+    }
+  }
+}

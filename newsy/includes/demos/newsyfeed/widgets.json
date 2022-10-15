@@ -1,0 +1,94 @@
+{
+  "primary-sidebar": {
+    "newsy_mailchimp-4": {
+      "color": "#ee3320",
+      "title": "Keep up with the NewsyFeed daily email!",
+      "msg": "Subscribe to our top stories.",
+      "mailchimp_url": "https://akbilisim.us16.list-manage.com/subscribe/post?u=5472afed7f687968b03e85a2c&id=e558fd5037",
+      "input_alt": "You can unsubscribe at any time",
+      "style": "style-4",
+      "form_layout": "Horizontal",
+      "block_extra_classes": "ak-block-boxed"
+    },
+    "newsy_list_2_wide-4": {
+      "title": "Trending Now",
+      "icon": "akfi-rocket",
+      "header_style": "style-2",
+      "header_line_color": "#f43192",
+      "header_title_color": "#f43192",
+      "block_accent_color": "#f43192",
+      "count": "5",
+      "order_by": "popular_week",
+      "pagination": "load_more",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_author_icon": "hide",
+        "show_author": "hide",
+        "show_date": "hide",
+        "show_category": "hide"
+      },
+      "block_extra_classes": "ak-block-boxed",
+      "item_margin": "30",
+      "numeric_items_style": "style-4"
+    }
+  },
+  "footer-2": {
+    "newsy_list_1_small-3": {
+      "title": "Quizzess",
+      "count": "3",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "item_margin": "30"
+    }
+  },
+  "footer-3": {
+    "newsy_popular_categories-3": {
+      "count": "7",
+      "order_by": "count",
+      "order": "DESC",
+      "title": "Categories",
+      "item_margin": "30"
+    }
+  },
+  "post-sidebar": {
+    "newsy_facebook_likebox-3": {
+      "page": "http://www.facebook.com/envato",
+      "show_posts": "hide",
+      "locate": "en_US"
+    },
+    "newsy_list_1_small-4": {
+      "title": "Popular Now",
+      "header_style": "style-11",
+      "count": "5",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "item_margin": "30"
+    },
+    "newsy_ad-2": {
+      "type": "image",
+      "image": "%%ak-ad-350X300%%"
+    },
+    "newsy_video_playlist-2": {
+      "title": "Trend Videos",
+      "header_style": "style-11",
+      "count": "10",
+      "order_by": "latest",
+      "item_margin": "30"
+    }
+  },
+  "sidebar-buddypress-members": {
+    "bp_core_recently_active_widget-2": {
+      "title": "Recently Active Members",
+      "max_members": 15
+    },
+    "bp_core_whos_online_widget-2": {
+      "title": "Who's Online",
+      "max_members": 15
+    }
+  }
+}

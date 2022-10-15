@@ -1,0 +1,86 @@
+{
+  "primary-sidebar": {
+    "newsy_list_3-3": {
+      "title": "TRENDING",
+      "icon": "akfi-rocket",
+      "header_style": "style-11",
+      "count": "5",
+      "order_by": "popular_week",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_meta": "hide",
+        "show_category": "hide",
+        "show_category_type": "inline_badge"
+      },
+      "item_margin": "1",
+      "numeric_items_style": "style-4"
+    }
+  },
+  "secondary-sidebar": {
+    "newsy_list_10-3": {
+      "title": "HOTTEST STUFF",
+      "header_style": "style-11",
+      "count": "7",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_meta": "hide",
+        "show_category": "hide"
+      },
+      "item_margin": "30"
+    },
+    "newsy_social_counter-3": {
+      "social_sites": "facebook,twitter,youtube,instagram,soundcloud",
+      "style": "style-4",
+      "color_style": "colored",
+      "title": "FOLLOW US",
+      "header_style": "style-11",
+      "item_margin": "30"
+    }
+  },
+  "footer-1": {
+    "newsy_about_us-2": {
+      "image": "%attachment_url%ak-newsy-logo-dark%attachment_url%",
+      "logo_text": "Magazine",
+      "about_title": "Magazine News",
+      "description": "We bring you the best Premium WordPress Themes that perfect for news, magazine, personal blog, etc. Check our landing page for details.Read More",
+      "about_link_text": "Read More",
+      "about_link_url": "#",
+      "social_sites_color": "colored",
+      "title": "About",
+      "item_margin": "30"
+    }
+  },
+  "footer-2": {
+    "newsy_block_header-3": {
+      "title": "Subscribe Us",
+      "item_margin": "30"
+    },
+    "newsy_mailchimp-2": {
+      "title": "Subscribe to Email Updates",
+      "msg": "Subscribe to receives daily updates direct to your inbox!",
+      "mailchimp_url": "#",
+      "input_alt": "You can unsubscribe at any time",
+      "style": "style-6"
+    }
+  },
+  "footer-3": {
+    "newsy_block_header-2": {
+      "title": "Follow Us",
+      "title_url": "https:\/\/www.instagram.com\/magazine\/",
+      "item_margin": "30"
+    },
+    "newsy_instagram-2": {
+      "method": "username",
+      "username": "magazine",
+      "column": "3",
+      "row": "2",
+      "item_margin": "10",
+      "sort": "most_recent"
+    }
+  }
+}

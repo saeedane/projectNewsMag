@@ -1,0 +1,247 @@
+{
+  "site_width": "1100px",
+  "site_boxed_inner_width": "97px",
+  "site_grid": "hide",
+  "site_loop": "newsy_list_8",
+  "builder_header_desktop": {
+    "order": ["top", "mid", "bottom"],
+    "mid": {
+      "layout": "stretched",
+      "left": {
+        "items": ["menu_handler", "social_icons"]
+      },
+      "center": {
+        "items": ["logo"]
+      },
+      "right": {
+        "items": ["dark_mode", "search", "button1", "shop", "user"]
+      }
+    }
+  },
+  "builder_header_mobile": {
+    "mobile": {
+      "left": {
+        "items": ["menu_handler"]
+      },
+      "center": {
+        "items": ["mobile_logo"]
+      },
+      "right": {
+        "items": ["search"]
+      }
+    }
+  },
+  "builder_header_sticky": {
+    "sticky": {
+      "layout": "stretched",
+      "left": {
+        "items": ["menu_handler"]
+      },
+      "center": {
+        "items": ["mobile_logo"]
+      },
+      "right": {
+        "items": ["search"]
+      }
+    }
+  },
+  "builder_drawer": {
+    "drawer": {
+      "left": {
+        "items": ["button1", "badge_menu"]
+      },
+      "center": {
+        "layout": "grow",
+        "align": "left",
+        "items": ["mobile_menu"]
+      },
+      "right": {
+        "align": "left",
+        "items": ["mobile_logo", "footer_copyright"]
+      }
+    }
+  },
+  "header_wrap_shadow": "active",
+  "header_mid_height": "80",
+  "header_bottom_height": "80",
+  "logo_type": "image",
+  "logo_image": "%attachment_url%ak-newsy-logo%attachment_url%",
+  "logo2x_image": "%attachment_url%ak-newsy-logo2x%attachment_url%",
+  "logo_dark_image": "%attachment_url%ak-newsy-logo%attachment_url%",
+  "logo2x_dark_image": "%attachment_url%ak-newsy-logo2x%attachment_url%",
+  "main_logo_width": "200",
+  "typ_header_logo": {
+    "family": "Fira Sans",
+    "size": "35px"
+  },
+  "mobile_logo_type": "image",
+  "mobile_logo_image": "%attachment_url%ak-newsy-logo%attachment_url%",
+  "mobile_logo2x_image": "%attachment_url%ak-newsy-logo2x%attachment_url%",
+  "mobile_logo_dark_image": "%attachment_url%ak-newsy-logo%attachment_url%",
+  "mobile_logo2x_dark_image": "%attachment_url%ak-newsy-logo2x%attachment_url%",
+  "typ_top_bar_date": {
+    "color": "#e5e5e5"
+  },
+  "header_social_icons": "facebook,twitter,google,youtube",
+  "header_social_icons_style": "light-box",
+  "header_button1": {
+    "text": "Create",
+    "icon": "fa-upload",
+    "style": "rounded"
+  },
+  "builder_footer": {
+    "order": ["top", "mid", "bottom"],
+    "mid": {
+      "center": {
+        "items": ["footer_logo"]
+      }
+    },
+    "bottom": {
+      "center": {
+        "items": ["footer_menu"]
+      }
+    }
+  },
+  "footer_menu_style": "style-6",
+  "footer_logo_type": "image",
+  "footer_logo_image": "%attachment_url%ak-newsy-logo%attachment_url%",
+  "footer_logo2x_image": "%attachment_url%ak-newsy-logo2x%attachment_url%",
+  "footer_logo_dark_image": "%attachment_url%ak-newsy-logo%attachment_url%",
+  "footer_logo2x_dark_image": "%attachment_url%ak-newsy-logo2x%attachment_url%",
+  "footer_copyright": "\u00a9 #year# <a href=\"#siteurl#\" title=\"#title#\">#sitename#</a> - #title# theme by <a href=\"http://akbilisim.com\" title=\"akbilisim\">akbilisim</a>.",
+  "category_header_style": "style-8",
+  "category_header_css": {
+    "background": {
+      "image": {
+        "img": "%attachment_url%ak-media-catbg%attachment_url%",
+        "type": "repeat"
+      },
+      "color": "#dd3333"
+    }
+  },
+  "category_width": "1000px",
+  "category_boxed_inner_width": "1000px",
+  "post_template": "style-5",
+  "post_social_share_sites": "facebook,twitter,google_plus,pinterest,linkedin,whatsapp,line",
+  "post_social_share_style": "style-4",
+  "post_social_share_bottom": "hide",
+  "post_comments": "wp,facebook,disqus",
+  "post_comments_form_remove_url": "yes",
+  "post_voting_up_icon": "akfi-arrow-up",
+  "post_voting_down_icon": "akfi-arrow-down",
+  "site_highlight_color": "#ff6a00",
+  "site_block_color": "#ff6a00",
+  "typo_body_font": {
+    "family": "Poppins",
+    "subset": "latin",
+    "variant": "400"
+  },
+  "typo_heading": {
+    "family": "Poppins",
+    "subset": "latin",
+    "variant": "700"
+  },
+  "typ_header_menu": {
+    "size": "17px",
+    "line-height": "80px",
+    "transform": "uppercase"
+  },
+  "main_menu_bottom_border_hover_color": "#4974b0",
+  "typ_top_bar_menu": {
+    "size": "14px",
+    "line-height": "35px",
+    "transform": "uppercase",
+    "color": "#ffffff"
+  },
+  "typo_single_post_title": {
+    "family": "Poppins",
+    "size": "38px"
+  },
+  "typo_single_post_summary": {
+    "size": "20px",
+    "line-height": "1.7em"
+  },
+  "typo_single_post_content": {
+    "size": "16px"
+  },
+  "typo_title": {
+    "family": "Poppins",
+    "variant": "700",
+    "subset": "latin"
+  },
+  "typo_summary": {
+    "size": "16px",
+    "line-height": "24px",
+    "color": "#333333"
+  },
+  "typo_meta": {
+    "size": "12px",
+    "color": "#a2a2a2"
+  },
+  "typo_meta_author": {
+    "color": "#ff6a00"
+  },
+  "block_header_style": "style-8",
+  "block_load_more_width": "100",
+  "block_load_more_bg_color": "#ffffff",
+  "block_load_more_text_color": "#0a0a0a",
+  "block_load_more_border_color": "#f4f4f4",
+  "block_load_more_hover_bg_color": "#4974b0",
+  "block_load_more_hover_border_color": "#ffffff",
+  "module_1_small_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide"
+  },
+  "module_2_parts": {
+    "show_excerpt": "hide",
+    "show_category": "hide"
+  },
+  "module_2_wide_parts": {
+    "show_excerpt": "hide",
+    "show_author_icon": "hide",
+    "show_category": "hide"
+  },
+  "module_3_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "show_category": "hide"
+  },
+  "module_grid_big_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge"
+  },
+  "module_grid_small_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge"
+  },
+  "module_grid_tall_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge"
+  },
+  "module_grid_wide_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge"
+  },
+  "module_grid_wide_big_parts": {
+    "show_author_icon": "hide",
+    "show_author": "hide",
+    "date_format": "ago",
+    "show_category_type": "inline_badge"
+  },
+  "cat_badge_style": {
+    "background": {
+      "color": "#ff6a00"
+    }
+  },
+  "header_button1[text]": "Create",
+  "header_button1[icon]": "fa-upload",
+  "header_button1[style]": "rounded"
+}

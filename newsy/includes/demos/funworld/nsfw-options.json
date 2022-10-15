@@ -1,0 +1,8 @@
+{
+  "nsfw_categories": "%%ak-nsfw%%",
+  "nsfw_icon_color": "rgb(246,213,20)",
+  "nsfw_bg_color": "rgb(0,0,0)",
+  "nsfw_view_btn_color": "rgba(255,255,255,0.23)",
+  "nsfw_view_btn_bg_color": "rgb(255,255,255)",
+  "nsfw_title_typo": { "color": "rgb(255,255,255)" }
+}

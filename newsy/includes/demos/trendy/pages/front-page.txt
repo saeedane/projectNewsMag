@@ -1,0 +1,1 @@
+[vc_row full_width="stretch_row_content" css=".vc_custom_1546464400570{margin-top: -30px !important;padding-top: 30px !important;}"][vc_column][newsy_block_13 count="20" pagination="load_more" block_width="5" block_extra_classes="ak-block-module-inner-boxed" css=".vc_custom_1546464699057{padding-right: 15px !important;padding-left: 15px !important;}"][/vc_column][/vc_row]

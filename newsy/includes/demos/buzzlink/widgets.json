@@ -1,0 +1,115 @@
+{
+  "primary-sidebar": {
+    "newsy_list_1_small_square-5": {
+      "title": "Top Stories",
+      "header_style": "style-11",
+      "count": "5",
+      "order_by": "popular_week",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "title_length": "30",
+        "show_author_icon": "hide",
+        "show_author": "hide",
+        "show_comment_count": "hide",
+        "show_share_count": "hide",
+        "show_view_count": "hide",
+        "show_voting_count": "hide",
+        "date_format": "ago"
+      },
+      "numeric_items_style": "style-7",
+      "block_extra_classes": "ak-block-boxed",
+      "item_margin": "30"
+    },
+    "newsy_ad-13": {
+      "type": "image",
+      "image": "%%ak-ad-350X300%%",
+      "image_link": "#"
+    },
+    "mycred_widget_list-2": {
+      "show_visitors": 0,
+      "number": 5,
+      "title": "",
+      "type": "mycred_default",
+      "based_on": "balance",
+      "total": "0",
+      "row_layout": "<span>#%position%</span> <span>%user_profile_link%</span> <span>%cred_f%</span>",
+      "offset": "0",
+      "order": "DESC",
+      "current": "",
+      "timeframe": "",
+      "wrap": "li",
+      "nothing": "Leaderboard is empty",
+      "exclude_zero": "1",
+      "exclude": ""
+    }
+  },
+  "secondary-sidebar": {
+    "newsy_nav_menu-2": {
+      "title": "POPULAR",
+      "menu": "848",
+      "header_style": "style-11",
+      "header_title_color": "#999999"
+    },
+    "newsy_nav_menu-3": {
+      "title": "SECTIONS",
+      "menu": "847",
+      "header_style": "style-11",
+      "header_title_color": "#999999"
+    }
+  },
+  "post-sidebar": {
+    "newsy_ad-14": {
+      "type": "image",
+      "image": "%%ak-ad-350X300%%",
+      "image_link": "#"
+    },
+    "newsy_list_1_small_square-4": {
+      "title": "Top Stories",
+      "header_style": "style-11",
+      "count": "5",
+      "order_by": "popular_week",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "title_length": "40",
+        "show_author_icon": "hide",
+        "show_author": "hide",
+        "show_comment_count": "hide",
+        "show_share_count": "hide",
+        "show_view_count": "hide",
+        "show_voting_count": "hide",
+        "date_format": "ago"
+      },
+      "numeric_items_style": "style-7",
+      "block_extra_classes": "ak-block-boxed",
+      "item_margin": "30"
+    }
+  },
+  "category-sidebar": {
+    "newsy_ad-15": {
+      "type": "image",
+      "image": "%%ak-ad-350X300%%",
+      "image_link": "#"
+    },
+    "mycred_widget_list-3": {
+      "show_visitors": 0,
+      "number": 5,
+      "title": "Leaderboard",
+      "type": "mycred_default",
+      "based_on": "balance",
+      "total": "0",
+      "row_layout": "<span>#%position%</span> <span>%user_profile_link%</span> <span>%cred_f%</span>",
+      "offset": "0",
+      "order": "DESC",
+      "current": "",
+      "timeframe": "",
+      "wrap": "li",
+      "nothing": "Leaderboard is empty",
+      "exclude_zero": "1",
+      "exclude": ""
+    }
+  }
+}

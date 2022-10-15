@@ -1,0 +1,61 @@
+<!-- wp:paragraph -->
+<p>This year though, the conference was in a lull, E3 has histrionically made it the premier event of games and before the internet, the attendees were mainly games journalist that’s how they would get the news out to the gamers, and over the last couple years they opened up to the general public. Now with YouTube and other places directly streaming the event — for free all without going there, this got rid of the need of journalist going there and also got ordinary people spending a lot of money to watch newly announced games first hand but rather be in the comfort of their own home and still experience it. While this year became more accessible to everyone, the attendance rate was much lower than the previous year with sixty-six thousand people on the show floor, the lack of people showing up could be related to Sony dropping out or the fact that this year E3 is kind of lackluster with no big surprises.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center"} -->
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="%attachment_url%ak-media-post-content-1%attachment_url%" alt=""/><figcaption> CD Projekt Red’s Cyberpunk 2077</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>It was a slow E3, nothing ground shaking aside from the new surprises of already announced games like Keanu Reeves in Cyberpunk 2077 and him being front and center at Microsoft press conference. This year was the residue of the previous years sadly a lot of games we were expecting didn’t show up and one of the biggest game makers had made a void that many there tried to fill. Not everything is bad though, there were highlights, games that were previously announced kept the fans over. Bethesda having a lukewarm reception the game maker had some surprises up their sleeves with Deathloop: from the makers of Dishonored a game that takes places on an island and you play as an assassin that has to find other targets trying to kill, if they win, you die over and over again until you kill them — hence the name. They also got Ghost Wire: Tokyo, from the studio behind The Evil Within, takes place in Tokyo and from the trailer, people disappear like Thanos snap into thin air, the game has little information of it and has yet to have a release date.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"left","width":450,"height":251} -->
+<div class="wp-block-image"><figure class="alignleft is-resized"><img src="%attachment_url%ak-media-post-content-2%attachment_url%" alt="" width="450" height="251"/><figcaption> DOOM Eternal</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p> The big thing was if we got more information of their next Elder Scrolls game, while they did tease it last year, it was a no show this time around, but in turn, we got new gameplay from both DOOM Eternal and Wolfienstien New Blood. Also if you bought their MMO Fallout 76, they’ve released an expansion pack called Wastelander which comes with NPC which was one of the many complaints when the games first came out earlier this year. EA has a press conference, this year they didn’t but had a live stream, they showed off a new single player Star Wars game called the Jedi: The Fallen Order from the makers of TitanFall, this highly anticipated entry in Star Wars canon takes place after Episode 3 Revenge of the Sith, it has tons of gameplay mechanics from TitanFall like wall running so it looks very promising after all TitanFall 1 and 2 were really good. EA also showcased FIFA 20 the next entry in their sports franchise, Madden 2020 has already been announced and is coming out later this summer so there was no point no announce that. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"right","width":450,"height":250} -->
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="%attachment_url%ak-media-post-content-3%attachment_url%" alt="" width="450" height="250"/><figcaption> Star Wars Jedi:Fallen Oder</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p> On top of their new games, they also announced new content for their games already out like their massive World War 2 shooter Battlefield 5 with new maps, skins and a new campaign set in the Pacific Theater, Madden 20 gets a new campaign and their battle royal Apex Legends that announced season two to launch on the same day. Microsoft had a ton weight on them, after Sony pulled out the Xbox maker had the advantage, they came to the conference with a ton of games — 60 to be exact, of those 60 several were noticeably big like Gears 5, Minecraft Dungeons, Elden Ring, and The Outer World, they also were able to show off more gameplay for the highly anticipated Cyberpunk 2077, with a release date that is set mid next year. Microsoft finally teased officially Project Scarlett which is their next system and will come out next year, while they did hold back on some surprises that are coming out with the next console, but they did state that the next Halo game is out with the new console. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center"} -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="%attachment_url%ak-media-post-content-4%attachment_url%" alt=""/><figcaption> Halo Infinite</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p> Ubisoft, also showed their presence by giving a better look at the next Ghost Recon game Breakpoint which seems to the first single player game in the series in a while. They also announced Watch Dogs Legion, the third game in series that is set in a post-Brexit London and you’ll play as many different characters, Watch Dogs is acting like Assassins Creed were it’s Ubisoft’s two main games switching years so every other year its one of those two games. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"left","width":450,"height":250} -->
+<div class="wp-block-image"><figure class="alignleft is-resized"><img src="%attachment_url%ak-media-post-content-5%attachment_url%" alt="" width="450" height="250"/><figcaption> Watch Dogs Legion</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p> They also announced new content for Rainbow Six-Siege, For Honor and The Division 2, they also announced Roller Champions and Gods and Monsters as new IPs. Nintendo was in the same boat as Microsoft with Sony not being there, but they did deliver with Luigi’s Mansion 3, Legend of Zelda: Links Awakening remaster and Animal Crossing: New Horizon, and of course adding Banjo Kazooie to their Smash Bros roster. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"right","width":450,"height":250} -->
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="%attachment_url%ak-media-post-content-6%attachment_url%" alt="" width="450" height="250"/><figcaption> Luigi’s Manison 3</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p> The big one though, was the announcement to the Legend of Zelda: Breath of the Wilds sequel, when Breath of the Wild won the game of the year a couple of years back, people wanted more. Square Enix dropped a ton of Final Fantasy content, including Final Fantasy VII remake and remasters for Final Fantasy Chronicles and The Last Remnant, they also announced a new IP called Outriders which is co-op based shooter. Square Enix also had a surprise in the form of Marvels Avengers, with the End Game just coming out theaters it’s no wonder why it’s still popular, from the makers of the rebooted Tomb Raider series, The Avengers will be team based with no loot boxes and free content upgrades monthly or so developers Crystal Dynamics states but regardless, playing your favorite superhero with your friends is a not a bad idea. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center"} -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="%attachment_url%ak-media-post-content-7%attachment_url%" alt=""/><figcaption> Marvel’s Anvengers</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>
+The need for the press conference is becoming less and less necessary, thanks to the internet we can directly connect with developers and let them know we feel about their product. While all companies are gearing up for the next generation and rightfully so, it would’ve been interesting to see one last push for these consoles, like more from The Last of Us 2 even though Sony wasn’t at the show it would have been nice for their presence to be there rather than casting a dark shadow on the conference.
+</p>
+<!-- /wp:paragraph -->

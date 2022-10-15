@@ -1,0 +1,97 @@
+{
+  "primary-sidebar": {
+    "newsy_mailchimp-35": {
+      "title": "Subscribe to Email Updates",
+      "msg": "Subscribe to receives daily updates direct to your inbox!",
+      "mailchimp_url": "https://akbilisim.us16.list-manage.com/subscribe/post?u=5472afed7f687968b03e85a2c&id=e558fd5037",
+      "input_alt": "You can unsubscribe at any time",
+      "style": "style-7"
+    },
+    "newsy_ad-37": {
+      "type": "image",
+      "image": "%%ak-ad-350X300%%",
+      "image_link": "#"
+    }
+  },
+  "secondary-sidebar": {
+    "newsy_social_counter-76": {
+      "social_sites": "facebook,twitter,youtube,instagram,soundcloud",
+      "style": "style-4",
+      "color_style": "colored",
+      "title": "FOLLOW US",
+      "header_style": "style-11",
+      "item_margin": "30"
+    }
+  },
+  "footer-1": {
+    "newsy_about_us-30": {
+      "image": "%attachment_url%ak-newsy-logo-dark%attachment_url%",
+      "logo_text": "newsy",
+      "description": "We bring you the best Premium WordPress Themes that perfect for news, magazine, personal blog, etc. Check our landing page for details.",
+      "about_link_text": "Read More",
+      "about_link_url": "#",
+      "social_sites": "facebook,twitter,instagram,rss",
+      "social_sites_color": "light-box",
+      "title": "About Us",
+      "header_title_color": "rgb(255,255,255)"
+    },
+    "newsy_mailchimp-36": {
+      "mailchimp_url": "https://akbilisim.us16.list-manage.com/subscribe/post?u=5472afed7f687968b03e85a2c&id=e558fd5037",
+      "input_alt": "You can unsubscribe at any time",
+      "style": "style-6",
+      "form_layout": "Horizontal"
+    }
+  },
+  "footer-2": {
+    "woocommerce_recently_viewed_products-2": {
+      "title": "Recently Viewed Products",
+      "number": 4
+    }
+  },
+  "footer-3": {
+    "woocommerce_product_categories-3": {
+      "title": "Product categories",
+      "orderby": "name",
+      "dropdown": 0,
+      "count": 1,
+      "hierarchical": 1,
+      "show_children_only": 0,
+      "hide_empty": 1,
+      "max_depth": "5"
+    },
+    "woocommerce_product_search-2": { "title": "Find products" }
+  },
+  "post-sidebar": {
+    "newsy_social_counter-77": {
+      "social_sites": "facebook,twitter,instagram,youtube",
+      "style": "style-2",
+      "color_style": "light-square",
+      "title": "Stay Connected",
+      "header_style": "style-5",
+      "header_title_color": "rgb(0,0,0)",
+      "item_margin": "30"
+    },
+    "newsy_ad-92": { "type": "image", "image": "13049" }
+  },
+  "shop-sidebar": {
+    "woocommerce_product_categories-4": {
+      "title": "Product categories",
+      "orderby": "order",
+      "dropdown": 0,
+      "count": 1,
+      "hierarchical": 1,
+      "show_children_only": 0,
+      "hide_empty": 0,
+      "max_depth": ""
+    },
+    "woocommerce_layered_nav_filters-2": { "title": "Active filters" },
+    "woocommerce_layered_nav-2": {
+      "title": "Filter by",
+      "attribute": "",
+      "display_type": "list",
+      "query_type": "and"
+    },
+    "woocommerce_rating_filter-2": { "title": "Average rating" },
+    "woocommerce_price_filter-2": { "title": "Filter by price" }
+  }
+}

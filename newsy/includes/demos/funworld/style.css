@@ -1,0 +1,11 @@
+.ak-module-terms.badge {
+  bottom: 10px;
+  left: 10px;
+}
+.rtl .ak-module-terms.badge {
+  left: auto;
+  right: 10px;
+}
+.ak-block-grid.tg-highlight .ak-module-grid .ak-module-details .ak-module-meta {
+  border-radius: 3px;
+}

@@ -1,0 +1,58 @@
+{
+  "primary-sidebar": {
+    "newsy_list_2-4": {
+      "title": "TRENDING",
+      "icon": "akfi-fire",
+      "header_style": "style-11",
+      "count": "7",
+      "order_by": "popular_week",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "block_extra_classes": "ak-block-module-center-elements",
+      "item_margin": "30",
+      "numeric_items_style": "style-4"
+    }
+  },
+  "secondary-sidebar": {
+    "newsy_list_10-4": {
+      "title": "HOTTEST STUFF",
+      "header_style": "style-11",
+      "count": "7",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_meta": "hide",
+        "show_category": "hide"
+      },
+      "item_margin": "30"
+    },
+    "newsy_social_counter-4": {
+      "social_sites": "facebook,twitter,youtube,instagram,soundcloud",
+      "style": "style-4",
+      "color_style": "colored",
+      "title": "FOLLOW US",
+      "header_style": "style-11",
+      "item_margin": "30"
+    }
+  },
+  "footer-1": {
+    "newsy_mailchimp-3": {
+      "mailchimp_url": "https:\/\/akbilisim.us16.list-manage.com\/subscribe\/post?u=5472afed7f687968b03e85a2c&id=e558fd5037",
+      "input_alt": "You can unsubscribe at any time",
+      "style": "style-2",
+      "form_layout": "Horizontal"
+    }
+  },
+  "footer-3": {
+    "newsy_popular_categories-4": {
+      "count": "7",
+      "order_by": "count",
+      "order": "DESC",
+      "title": "Categories",
+      "item_margin": "30"
+    }
+  }
+}

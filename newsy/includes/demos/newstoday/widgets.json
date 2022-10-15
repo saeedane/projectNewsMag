@@ -1,0 +1,122 @@
+{
+  "primary-sidebar": {
+    "newsy_ad-2": {
+      "type": "image",
+      "image": "%%ak-ad-350X300%%"
+    },
+    "newsy_block_3-4": {
+      "title": "Hot Right Now",
+      "count": "4",
+      "offset": "25",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "block_extra_classes": "ak-block-module-thumb-round",
+      "item_margin": "30"
+    },
+    "newsy_mailchimp-4": {
+      "title": "Subscribe to Email Updates",
+      "msg": "Subscribe to receives daily updates direct to your inbox!",
+      "mailchimp_url": "https:\/\/akbilisim.us16.list-manage.com\/subscribe\/post?u=5472afed7f687968b03e85a2c&id=e558fd5037",
+      "input_alt": "You can unsubscribe at any time",
+      "style": "style-7"
+    }
+  },
+  "secondary-sidebar": {
+    "newsy_list_10-4": {
+      "title": "HOTTEST STUFF",
+      "header_style": "style-11",
+      "count": "7",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_meta": "hide",
+        "show_category": "hide"
+      },
+      "item_margin": "30"
+    },
+    "newsy_social_counter-4": {
+      "social_sites": "facebook,twitter,youtube,instagram,soundcloud",
+      "style": "style-4",
+      "color_style": "colored",
+      "title": "FOLLOW US",
+      "header_style": "style-11",
+      "item_margin": "30"
+    }
+  },
+  "footer-1": {
+    "newsy_about_us-4": {
+      "image": "%attachment_url%ak-newsy-logo-dark%attachment_url%",
+      "description": "We bring you the best Premium WordPress Themes that perfect for news, magazine, personal blog, etc. Check our landing page for details.",
+      "about_link_text": "Read More",
+      "about_link_url": "#",
+      "social_sites": "facebook,twitter,instagram,rss",
+      "social_sites_color": "light-box",
+      "title": "About",
+      "header_style": "style-11",
+      "header_title_color": "#fd4f18",
+      "item_margin": "30"
+    }
+  },
+  "footer-2": {
+    "newsy_list_1_small_square-4": {
+      "title": "Recent Posts",
+      "header_style": "style-11",
+      "header_title_color": "#fd4f18",
+      "count": "3",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_author_icon": "hide",
+        "show_author": "hide",
+        "show_comment_count": "hide",
+        "show_share_count": "hide",
+        "show_view_count": "hide",
+        "show_category": "hide"
+      },
+      "block_extra_classes": "ak-block-module-thumb-round dark",
+      "item_margin": "30"
+    }
+  },
+  "footer-3": {
+    "newsy_popular_categories-4": {
+      "count": "6",
+      "order_by": "count",
+      "order": "DESC",
+      "block_width": "2",
+      "show-post-count": "hide",
+      "title": "Categories",
+      "header_style": "style-11",
+      "header_title_color": "#fd4f18",
+      "item_margin": "30"
+    },
+    "tag_cloud-4": {
+      "title": "",
+      "count": 0,
+      "taxonomy": "post_tag"
+    }
+  },
+  "post-sidebar": {
+    "newsy_list_3-4": {
+      "count": "7",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_meta": "hide",
+        "show_category": "hide"
+      },
+      "block_extra_classes": "ak-block-module-thumb-round",
+      "item_margin": "5",
+      "numeric_items_style": "style-7"
+    }
+  }
+}

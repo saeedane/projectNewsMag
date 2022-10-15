@@ -1,0 +1,25 @@
+/*
+*/
+.ak-popular-cats-list {
+  max-height: 900px;
+  margin-left: -10px;
+}
+.rtl .ak-popular-cats-list {
+  margin-left: auto;
+  margin-right: -15px;
+}
+.ak-block-categories .popular-cat-item {
+  border: 1px solid transparent;
+  border-radius: 3px;
+  padding: 5px 10px;
+  margin-bottom: 0;
+}
+
+.ak-block-categories .popular-cat-item:hover {
+  border: 1px solid #f1f1f1;
+  background: #fff;
+}
+
+.secondary-sidebar .ak-menu {
+  margin: 0 -8px;
+}

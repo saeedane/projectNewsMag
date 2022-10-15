@@ -1,0 +1,57 @@
+{
+  "primary-sidebar": {
+    "newsy_list_3-3": {
+      "title": "TRENDING",
+      "icon": "akfi-rocket",
+      "header_style": "style-11",
+      "count": "6",
+      "order_by": "popular_week",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_meta": "hide",
+        "show_category_type": "inline_badge",
+        "show_badge_icon": "hide"
+      },
+      "item_margin": "1",
+      "numeric_items_style": "style-4"
+    }
+  },
+  "secondary-sidebar": {
+    "newsy_list_10-3": {
+      "title": "HOTTEST STUFF",
+      "header_style": "style-11",
+      "count": "10",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_meta": "hide",
+        "show_category": "hide"
+      },
+      "item_margin": "30"
+    },
+    "newsy_social_counter-3": {
+      "social_sites": "facebook,twitter,youtube,instagram,soundcloud",
+      "style": "style-4",
+      "color_style": "colored",
+      "title": "FOLLOW US",
+      "header_style": "style-11",
+      "item_margin": "30"
+    }
+  },
+  "footer-2": {
+    "newsy_list_1_small-3": {
+      "title": "Quizzess",
+      "count": "3",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "item_margin": "30"
+    }
+  }
+}

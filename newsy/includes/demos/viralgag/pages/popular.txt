@@ -1,0 +1,1 @@
+[newsy_list_9 count="10" order_by="popular_week" pagination="infinity"]

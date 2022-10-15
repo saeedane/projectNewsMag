@@ -1,0 +1,109 @@
+{
+  "primary-sidebar": {
+    "newsy_ad-6": {
+      "type": "image",
+      "image": "%%ak-ad-350X300%%",
+      "image_link": "#"
+    },
+    "newsy_list_3-4": {
+      "title": "TRENDING",
+      "icon": "akfi-rocket",
+      "header_style": "style-11",
+      "header_title_color": "#f70d28",
+      "block_accent_color": "#f70d28",
+      "count": "6",
+      "order_by": "popular_week",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_meta": "hide",
+        "show_category_type": "inline_badge",
+        "show_badge_icon": "hide"
+      },
+      "item_margin": "1",
+      "numeric_items_style": "style-4"
+    }
+  },
+  "secondary-sidebar": {
+    "newsy_list_10-4": {
+      "title": "HOTTEST STUFF",
+      "header_style": "style-11",
+      "count": "7",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_meta": "hide",
+        "show_category": "hide"
+      },
+      "item_margin": "30"
+    },
+    "newsy_ad-7": {
+      "type": "image",
+      "image": "%%ak-ad-350X300%%",
+      "image_link": "#"
+    },
+    "newsy_social_counter-4": {
+      "social_sites": "facebook,twitter,youtube,instagram,soundcloud,twitch",
+      "style": "style-4",
+      "color_style": "colored",
+      "title": "FOLLOW US",
+      "header_style": "style-11",
+      "item_margin": "30"
+    }
+  },
+  "footer-1": {
+    "newsy_about_us-2": {
+      "image": "%attachment_url%ak-newsy-logo-dark%attachment_url%",
+      "logo_text": "Gamer World",
+      "description": "Newsy is the useful and powerful WordPress Theme, Viral theme with great attention to details, incredible features, an intuitive user interface and everything else you need to create outstanding websites.",
+      "about_link_text": "Read More",
+      "about_link_url": "#",
+      "social_sites_color": "light-box",
+      "title": "About Us",
+      "item_margin": "30"
+    },
+    "newsy_mailchimp-2": {
+      "mailchimp_url": "#",
+      "input_alt": "You can unsubscribe at any time",
+      "style": "style-6",
+      "form_layout": "Horizontal"
+    }
+  },
+  "footer-2": {
+    "newsy_list_1_small-4": {
+      "title": "Quizzess",
+      "count": "3",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "item_margin": "30"
+    }
+  },
+  "footer-3": {
+    "newsy_popular_categories-4": {
+      "count": "8",
+      "order_by": "count",
+      "order": "DESC",
+      "title": "Categories",
+      "item_margin": "30"
+    }
+  },
+  "forumsidebar": {
+    "bbp_topics_widget-2": {
+      "title": "Recent Topics",
+      "order_by": "newness",
+      "parent_forum": "any",
+      "max_shown": 5,
+      "show_date": false,
+      "show_user": false
+    },
+    "bbp_stats_widget-2": {
+      "title": "Forum Statistics"
+    }
+  }
+}

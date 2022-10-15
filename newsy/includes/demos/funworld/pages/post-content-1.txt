@@ -1,0 +1,219 @@
+<!-- wp:paragraph -->
+<p>New year, new travel opportunities!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Many people take the month of January to look at the year ahead and&nbsp;<a href="https://www.ustravel.org/events/national-plan-vacation-day" target="_blank" rel="noreferrer noopener">set travel goals</a>. One of the most powerful ways to explore a new place is to take a solo trip. From the freedom and flexibility to the stress relief and boost in self-reliance, there are&nbsp;<a href="#" rel="noreferrer noopener">endless benefits</a>&nbsp;to&nbsp;<a href="#" rel="noreferrer noopener">solo travel</a>. And there are many exciting places to make it happen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Of course, it’s always important to research current conditions in your desired destination to stay safe when traveling, especially for solo trips. But fortunately, there are precautions you can take, and tons of backup options if needed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We asked travel bloggers and other experts to share the solo travel destinations they recommend for 2020. Keep scrolling to read about 50 places that will surely inspire your wanderlust.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buzzeditor/list {"numberType":"border-colored","numberBgColor":"#cf2e2e","titleColor":"#313131","titleBorderColor":"#cf2e2e"} -->
+<div class="wp-block-buzzeditor-list be-list be-list-type-asc be-list-number-style-border-colored"><!-- wp:buzzeditor/list-item {"title":"Vancouver, Canada","orderIndex":1,"numberBgColor":"#cf2e2e","titleColor":"#313131","titleBorderColor":"#cf2e2e"} -->
+<div class="wp-block-buzzeditor-list-item"><h3 class="be-list-item-title"><span style="color:undefined;background-color:#cf2e2e;" class="be-list-item-number">1</span><span style="color:#313131;border-color:#cf2e2e;" class="be-list-item-text">Vancouver, Canada</span></h3>
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="%attachment_url%ak-post-2-vancouver%attachment_url%" alt=""/><figcaption>joe daniel price via Getty Images</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“If you enjoy spending time in nature, Vancouver is a great place to add to your solo destination list for 2020. Canada as a whole is a very safe country to visit, and Vancouver has so much to offer. The city itself offers beautiful views of mountains and has a lot of fun places to visit, such as Granville Market and Stanley Park. You can also do a day or weekend trip from Vancouver to escape into the mountains any time of year!” ― <em>Amber Primdahl, travel blogger at <a rel="noreferrer noopener" href="https://shescatchingflights.com/travel-alone-for-the-first-time-solo-female-travelers/" target="_blank">She’s Catching Flights</a></em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:buzzeditor/list-item -->
+
+<!-- wp:buzzeditor/list-item {"title":"Santiago, Chile","orderIndex":2,"numberBgColor":"#cf2e2e","titleColor":"#313131","titleBorderColor":"#cf2e2e"} -->
+<div class="wp-block-buzzeditor-list-item"><h3 class="be-list-item-title"><span style="color:undefined;background-color:#cf2e2e;" class="be-list-item-number">2</span><span style="color:#313131;border-color:#cf2e2e;" class="be-list-item-text">Santiago, Chile</span></h3>
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="%attachment_url%ak-post-2-santiago%attachment_url%" alt=""/><figcaption>Jose Luis Stephens / EyeEm via Getty Images</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“I recommend Santiago, Chile. South America is a friendly destination for travelers, even if you don’t speak Spanish. Santiago is not a difficult city to get around alone, as you can take the subway or Uber. The local food scene is fantastic and casual, so it’s a great place to enjoy a meal and cocktail by yourself. For example, at De Patio restaurant, you can sit at the counter and chat with the chef while he prepares dishes with ingredients straight out of his garden.” ― <em><a rel="noreferrer noopener" href="https://www.lacarmina.com/" target="_blank">La Carmina</a>, <a rel="noreferrer noopener" href="https://www.instagram.com/lacarmina/?hl=en" target="_blank">travel blogger</a> and TV host</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:buzzeditor/list-item -->
+
+<!-- wp:buzzeditor/list-item {"title":"Malaysia","orderIndex":3,"numberBgColor":"#cf2e2e","titleColor":"#313131","titleBorderColor":"#cf2e2e"} -->
+<div class="wp-block-buzzeditor-list-item"><h3 class="be-list-item-title"><span style="color:undefined;background-color:#cf2e2e;" class="be-list-item-number">3</span><span style="color:#313131;border-color:#cf2e2e;" class="be-list-item-text">Malaysia</span></h3>
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="%attachment_url%ak-post-2-malaysia%attachment_url%" alt=""/><figcaption>DasMaddin via Getty Images</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“Within Southeast Asia, I think Malaysia is a great destination for solo travel for any age. You’ve got some incredible rainforests and stunning canopy walks, buzzing cities with a great culinary scene, and since most Malaysians speak perfect English, it’s a lot easier to connect with locals than in many other countries. Malaysia doesn’t have the travel party scene you find so much Thailand, so it’s a perfect choice in Asia for more culture-focused or mature travelers.” ― <em>Marek Bron, travel blogger at <a rel="noreferrer noopener" href="https://www.indietraveller.co/" target="_blank">Indie Traveller</a></em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:buzzeditor/list-item -->
+
+<!-- wp:buzzeditor/list-item {"title":"Slovenia","orderIndex":4,"numberBgColor":"#cf2e2e","titleColor":"#313131","titleBorderColor":"#cf2e2e"} -->
+<div class="wp-block-buzzeditor-list-item"><h3 class="be-list-item-title"><span style="color:undefined;background-color:#cf2e2e;" class="be-list-item-number">4</span><span style="color:#313131;border-color:#cf2e2e;" class="be-list-item-text">Slovenia</span></h3>
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="%attachment_url%ak-post-2-slovenia%attachment_url%" alt=""/><figcaption>AleksandarGeorgiev via Getty Images</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“Delve into one of the greenest and most beautiful countries in Europe by buying a ticket to Slovenia! Not only does it have fairytale castles built into mountain walls (check out Predjama Castle!) but underground cave trains resembling Indiana Jones’ own adventures. The capital city is by far the prettiest I’ve ever seen, too. Transport links are convenient. The country is small enough to explore confidently. And the safety, as well as a high level of English among the younger generation, make this the perfect European destination for a solo traveler this year.” ―<em>Alice Teacake, travel blogger at <a rel="noreferrer noopener" href="https://www.teacaketravels.com/" target="_blank">Teacake Travels</a></em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:buzzeditor/list-item -->
+
+<!-- wp:buzzeditor/list-item {"title":"St. John's, Canada","orderIndex":5,"numberBgColor":"#cf2e2e","titleColor":"#313131","titleBorderColor":"#cf2e2e"} -->
+<div class="wp-block-buzzeditor-list-item"><h3 class="be-list-item-title"><span style="color:undefined;background-color:#cf2e2e;" class="be-list-item-number">5</span><span style="color:#313131;border-color:#cf2e2e;" class="be-list-item-text">St. John's, Canada</span></h3>
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="%attachment_url%ak-post-2-st-johns%attachment_url%" alt=""/><figcaption>Jarmo Piironen / EyeEm via Getty Images</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“It's not a place many people have heard of, but St. John’s, Newfoundland, is pretty magnificent and a great option for solo travel. The scenery is breathtakingly beautiful with massive cliffs overlooking the ocean. You can stroll to the top of Signal Hill to overlook the harbor and out to the sea. You can also drive out to Cape Spear to stand at North America’s most eastern point. But the truly special part of St. John’s is the people. They are some of the warmest and friendliest you will meet. You can grab a pint in one of the many Irish pubs and strike up a conversation easily. And for such a small town, the downtown area is packed with restaurants, pubs and shops. Plus, they have puffins and icebergs (even in May). You really can’t go wrong here. Don’t forget to get ‘screeched in’ while you are in town, too.” ― <em>Mark Ostermann, senior editor of <a rel="noreferrer noopener" href="https://milestomemories.boardingarea.com/" target="_blank">Miles to Memories</a></em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:buzzeditor/list-item -->
+
+<!-- wp:buzzeditor/list-item {"title":"South Korea","orderIndex":6,"numberBgColor":"#cf2e2e","titleColor":"#313131","titleBorderColor":"#cf2e2e"} -->
+<div class="wp-block-buzzeditor-list-item"><h3 class="be-list-item-title"><span style="color:undefined;background-color:#cf2e2e;" class="be-list-item-number">6</span><span style="color:#313131;border-color:#cf2e2e;" class="be-list-item-text">South Korea</span></h3>
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="%attachment_url%ak-post-2-south-korea%attachment_url%" alt=""/><figcaption>GoranQ via Getty Images</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“Seoul is on the top of my list for great places to travel solo this year. It’s safe for solo travelers, fairly easy to get around, and the people are always kind and willing to help tourists. The city is full of modern conveniences that take everyday luxury to another level. There’s WiFi everywhere, you can Uber around the city, and the customer service is impeccable. It’s great for solo travelers on a budget since there are a ton of low-cost options for hotel stays and food. The street food in Seoul is a must!” ― <em>Jee Choe, digital designer and blogger at <a rel="noreferrer noopener" href="https://www.ohhowcivilized.com/" target="_blank">Oh, How Civilized</a></em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:buzzeditor/list-item -->
+
+<!-- wp:buzzeditor/list-item {"title":"Rotterdam, the Netherlands","orderIndex":7,"numberBgColor":"#cf2e2e","titleColor":"#313131","titleBorderColor":"#cf2e2e"} -->
+<div class="wp-block-buzzeditor-list-item"><h3 class="be-list-item-title"><span style="color:undefined;background-color:#cf2e2e;" class="be-list-item-number">7</span><span style="color:#313131;border-color:#cf2e2e;" class="be-list-item-text">Rotterdam, the Netherlands</span></h3>
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="%attachment_url%ak-post-2-rotterdam%attachment_url%" alt=""/><figcaption>Alexander Spatari via Getty Images</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“Skip the crowds of Amsterdam and head to Rotterdam. This city is easy to navigate by public transportation, walkable, and of course, very bike-friendly. Take a water taxi and enjoy the views of the modern architecture of the city. Head to the food halls such as Markthal and Fenix Food Factory to check out what’s new with Dutch cuisine.” ―<em><a rel="noreferrer noopener" href="https://diningtraveler.com/" target="_blank">Jessica van Dop</a>, travel media specialist and blogger at <a rel="noreferrer noopener" href="https://diningtraveler.com/" target="_blank">The Dining Traveler</a></em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:buzzeditor/list-item -->
+
+<!-- wp:buzzeditor/list-item {"title":"Accra, Ghana","orderIndex":8,"numberBgColor":"#cf2e2e","titleColor":"#313131","titleBorderColor":"#cf2e2e"} -->
+<div class="wp-block-buzzeditor-list-item"><h3 class="be-list-item-title"><span style="color:undefined;background-color:#cf2e2e;" class="be-list-item-number">8</span><span style="color:#313131;border-color:#cf2e2e;" class="be-list-item-text">Accra, Ghana</span></h3>
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="%attachment_url%ak-post-2-accra%attachment_url%" alt=""/><figcaption>Ayitey Hammond via Getty Images</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“Ghana is one of the best countries to travel solo in Africa. Ghanaians are known to be very kind and are typically willing to help travelers with directions or the like. Accra has a beach close by, along with many cute boutiques, cafes and restaurants. Solo travelers might appreciate that Uber is available and affordable in Accra, which makes navigating the city quite easy.” ― <em><a rel="noreferrer noopener" href="http://www.youmelunch.com/" target="_blank">Briona Lamback</a>, travel blogger and founder of <a rel="noreferrer noopener" href="https://buoyanttravel.squarespace.com/" target="_blank">Buoyant</a> travel agency</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:buzzeditor/list-item -->
+
+<!-- wp:buzzeditor/list-item {"title":"Malta","orderIndex":9,"numberBgColor":"#cf2e2e","titleColor":"#313131","titleBorderColor":"#cf2e2e"} -->
+<div class="wp-block-buzzeditor-list-item"><h3 class="be-list-item-title"><span style="color:undefined;background-color:#cf2e2e;" class="be-list-item-number">9</span><span style="color:#313131;border-color:#cf2e2e;" class="be-list-item-text">Malta</span></h3>
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="%attachment_url%ak-post-2-malta%attachment_url%" alt=""/><figcaption>Dado Daniela via Getty Images</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“This incredibly charming and gorgeous European island is just off the coast of Italy and makes for an enchanting solo travel adventure! You can rent a car and explore both islands in just a couple of days, and see things like quaint cobblestone streets and the stunning Blue Lagoon.” ― <em><a rel="noreferrer noopener" href="https://www.instagram.com/mylifesatravelmovie/" target="_blank">Alyssa Ramos</a>, blogger at <a rel="noreferrer noopener" href="https://mylifesamovie.com/ultimate-malta-travel-guide/" target="_blank">My Life’s A Travel Movie</a></em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:buzzeditor/list-item -->
+
+<!-- wp:buzzeditor/list-item {"title":"Oman","orderIndex":10,"numberBgColor":"#cf2e2e","titleColor":"#313131","titleBorderColor":"#cf2e2e"} -->
+<div class="wp-block-buzzeditor-list-item"><h3 class="be-list-item-title"><span style="color:undefined;background-color:#cf2e2e;" class="be-list-item-number">10</span><span style="color:#313131;border-color:#cf2e2e;" class="be-list-item-text">Oman</span></h3>
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="%attachment_url%ak-post-2-oman%attachment_url%" alt=""/><figcaption>35007 via Getty Images</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“Many people can’t even point to Oman on a map, but it is one of the best destinations for solo travelers in 2020! Locals are friendly but rarely pushy, and you can walk down the street without getting stared at. Renting a car is easy and the roads are in pristine condition. The highlight of traveling Oman is the fabulous nature and scenery, from sparkling blue wadis and sand dunes for hundreds of miles to sea cliffs and the ‘Grand Canyon Of The Middle East.’ If you want a break from traveling solo, consider hiring a local Omani guide to show you around for a day or two!” ― <em>Victoria Yore, travel blogger at <a rel="noreferrer noopener" href="https://www.followmeaway.com/" target="_blank">Follow Me Away</a></em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:buzzeditor/list-item --></div>
+<!-- /wp:buzzeditor/list -->
+
+<!-- wp:buzzeditor/poll {"blockID":"1271d893-d498-48b2-af09-951540e7829e"} -->
+<div id="1271d893-d498-48b2-af09-951540e7829e" class="wp-block-buzzeditor-poll be-poll" data-guest="disabled"><div class="be-question"><!-- wp:heading {"level":3,"placeholder":"Enter Question"} -->
+<h3>Have you traveled solo?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:buzzeditor/poll-answers {"blockID":"d1fdba81-7295-4e60-9dcc-640be42fb3ef"} -->
+<div id="d1fdba81-7295-4e60-9dcc-640be42fb3ef" class="wp-block-buzzeditor-poll-answers be-answers clearfix text"><!-- wp:buzzeditor/poll-answer {"blockID":"6e4442bd-8ea3-4c1f-b24f-44d24e1c7510"} -->
+<div id="6e4442bd-8ea3-4c1f-b24f-44d24e1c7510" class="wp-block-buzzeditor-poll-answer be-answer"><div class="be-answer-wrapper"><!-- wp:cover {"overlayColor":"black","minHeight":245,"minHeightUnit":"px","className":"be-answer-image"} -->
+<div class="wp-block-cover has-black-background-color has-background-dim be-answer-image" style="min-height:245px"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:paragraph {"placeholder":"Type an answer...","className":"be-answer-title"} -->
+<p class="be-answer-title">No, I have no interest in it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Type media credit...","className":"be-media-credit"} -->
+<p class="be-media-credit"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:buzzeditor/poll-answer -->
+
+<!-- wp:buzzeditor/poll-answer {"blockID":"dcf22f4e-6fb8-4011-8f3e-cf89a430931d"} -->
+<div id="dcf22f4e-6fb8-4011-8f3e-cf89a430931d" class="wp-block-buzzeditor-poll-answer be-answer"><div class="be-answer-wrapper"><!-- wp:cover {"overlayColor":"black","minHeight":245,"minHeightUnit":"px","className":"be-answer-image"} -->
+<div class="wp-block-cover has-black-background-color has-background-dim be-answer-image" style="min-height:245px"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:paragraph {"placeholder":"Type an answer...","className":"be-answer-title"} -->
+<p class="be-answer-title">No, but I’m curious.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Type media credit...","className":"be-media-credit"} -->
+<p class="be-media-credit"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:buzzeditor/poll-answer -->
+
+<!-- wp:buzzeditor/poll-answer {"blockID":"e9f1149e-74a4-440c-8ba4-9a84f6b0122f"} -->
+<div id="e9f1149e-74a4-440c-8ba4-9a84f6b0122f" class="wp-block-buzzeditor-poll-answer be-answer"><div class="be-answer-wrapper"><!-- wp:cover {"overlayColor":"black","minHeight":245,"minHeightUnit":"px","className":"be-answer-image"} -->
+<div class="wp-block-cover has-black-background-color has-background-dim be-answer-image" style="min-height:245px"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:paragraph {"placeholder":"Type an answer...","className":"be-answer-title"} -->
+<p class="be-answer-title">Yes, and it wasn’t that great.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Type media credit...","className":"be-media-credit"} -->
+<p class="be-media-credit"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:buzzeditor/poll-answer -->
+
+<!-- wp:buzzeditor/poll-answer {"blockID":"645924ce-464b-45e1-a621-f8993ffdbec5"} -->
+<div id="645924ce-464b-45e1-a621-f8993ffdbec5" class="wp-block-buzzeditor-poll-answer be-answer"><div class="be-answer-wrapper"><!-- wp:cover {"overlayColor":"black","minHeight":245,"minHeightUnit":"px","className":"be-answer-image"} -->
+<div class="wp-block-cover has-black-background-color has-background-dim be-answer-image" style="min-height:245px"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:paragraph {"placeholder":"Type an answer...","className":"be-answer-title"} -->
+<p class="be-answer-title">Yes, just a few times, It was fun!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Type media credit...","className":"be-media-credit"} -->
+<p class="be-media-credit"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:buzzeditor/poll-answer -->
+
+<!-- wp:buzzeditor/poll-answer {"blockID":"7bb8e3e9-fc88-4f28-9c4c-3a59f38e7439"} -->
+<div id="7bb8e3e9-fc88-4f28-9c4c-3a59f38e7439" class="wp-block-buzzeditor-poll-answer be-answer"><div class="be-answer-wrapper"><!-- wp:cover {"overlayColor":"black","minHeight":245,"minHeightUnit":"px","className":"be-answer-image"} -->
+<div class="wp-block-cover has-black-background-color has-background-dim be-answer-image" style="min-height:245px"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:paragraph {"placeholder":"Type an answer...","className":"be-answer-title"} -->
+<p class="be-answer-title">Yes, I offen do! It’s great.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Type media credit...","className":"be-media-credit"} -->
+<p class="be-media-credit"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:buzzeditor/poll-answer --></div>
+<!-- /wp:buzzeditor/poll-answers --></div></div>
+<!-- /wp:buzzeditor/poll -->

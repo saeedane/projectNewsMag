@@ -1,0 +1,135 @@
+{
+  "primary-sidebar": {
+    "newsy_list_2_wide-2": {
+      "title": "Trending Right Now!",
+      "header_style": "style-3",
+      "header_line_color": "#a0c674",
+      "header_title_bg_color": "#a0c674",
+      "count": "7",
+      "order_by": "popular_week",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_meta": "hide"
+      },
+      "block_extra_classes": "ak-block-module-boxed",
+      "item_margin": "15",
+      "numeric_items_style": "style-8"
+    }
+  },
+  "footer-2": {
+    "newsy_list_1_small-2": {
+      "title": "Quizzess",
+      "count": "3",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "item_margin": "30"
+    }
+  },
+  "footer-3": {
+    "newsy_popular_categories-2": {
+      "count": "7",
+      "order_by": "count",
+      "order": "DESC",
+      "title": "Categories",
+      "item_margin": "30"
+    }
+  },
+  "post-sidebar": {
+    "newsy_list_2_wide-3": {
+      "title": "Trending Right Now!",
+      "header_style": "style-13",
+      "header_line_color": "#a0c674",
+      "header_title_color": "#000000",
+      "count": "7",
+      "order_by": "latest",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_author_icon": "hide",
+        "show_author": "hide",
+        "show_comment_count": "hide",
+        "show_share_count": "hide",
+        "show_date": "hide",
+        "show_category": "hide"
+      },
+      "item_margin": "30"
+    },
+    "newsy_social_counter-2": {
+      "social_sites": "instagram,youtube,facebook,twitter,pinterest",
+      "style": "style-1",
+      "color_style": "light-circle",
+      "title": "Follow Us",
+      "header_style": "style-13",
+      "header_line_color": "#dd3333",
+      "header_title_bg_color": "#dd3333",
+      "header_title_color": "#000000",
+      "item_margin": "30"
+    },
+    "newsy_list_2-2": {
+      "title": "You May Also Like!",
+      "header_style": "style-13",
+      "header_line_color": "#0f65ef",
+      "header_title_bg_color": "#0f65ef",
+      "header_title_color": "#000000",
+      "count": "4",
+      "order_by": "popular_week",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_meta": "hide",
+        "show_category": "hide"
+      },
+      "block_width": "2",
+      "item_margin": "15"
+    }
+  },
+  "category-sidebar": {
+    "newsy_social_counter-3": {
+      "social_sites": "instagram,facebook,twitter,youtube",
+      "style": "style-1",
+      "color_style": "colored",
+      "header_line_color": "#dd3333",
+      "header_title_bg_color": "#dd3333",
+      "item_margin": "30"
+    },
+    "newsy_list_2-3": {
+      "title": "Trending Right Now!",
+      "header_style": "style-3",
+      "header_line_color": "#a0c674",
+      "header_title_bg_color": "#a0c674",
+      "count": "5",
+      "order_by": "popular_week",
+      "infinity_break_count": "3",
+      "tabs_all_text": "All",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "show_excerpt": "hide",
+        "show_meta": "hide",
+        "show_category": "hide"
+      },
+      "block_extra_classes": "ak-block-module-boxed",
+      "item_margin": "15",
+      "numeric_items_style": "style-7"
+    },
+    "newsy_popular_categories-3": {
+      "count": "6",
+      "order_by": "count",
+      "order": "DESC",
+      "show-cat-icon": "hide",
+      "title": "Popular Categories",
+      "header_style": "style-3",
+      "header_line_color": "#16659e",
+      "header_title_bg_color": "#16659e",
+      "block_extra_classes": "ak-block-inner-boxed",
+      "item_margin": "30"
+    }
+  }
+}

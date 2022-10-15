@@ -1,0 +1,137 @@
+{
+  "postsidebar": {
+    "newsy_mailchimp-3": {
+      "help": "",
+      "color": "#dd3333",
+      "title": "News moves fast. Keep up with the NewsyFeed News daily email!",
+      "icon": "",
+      "msg": "Subscribe to our top stories",
+      "image": "",
+      "mailchimp_url": "https:\/\/akbilisim.us16.list-manage.com\/subscribe\/post?u=5472afed7f687968b03e85a2c&id=e558fd5037",
+      "input_alt": "You can unsubscribe at any time",
+      "style": "style-4",
+      "text_align": "",
+      "form_layout": "Horizontal",
+      "block_extra_classes": "ak-block-boxed"
+    },
+    "newsy_list_2_wide-3": {
+      "title": "TOP POSTS ON BUZZMAG",
+      "title_url": "",
+      "icon": "akfi-trending_up",
+      "header_style": "style-11",
+      "count": "5",
+      "order_by": "popular_week"
+    },
+    "newsy_social_counter-3": {
+      "social_sites": "facebook,twitter,youtube,instagram,pinterest",
+      "style": "style-3",
+      "color_style": "colored",
+      "item_margin": "30"
+    }
+  },
+  "primary-sidebar": {
+    "newsy_facebook_likebox-3": {
+      "title": "",
+      "page": "http:\/\/www.facebook.com\/envato",
+      "show_posts": "hide",
+      "show_faces": "",
+      "locate": "en_US"
+    },
+    "newsy_list_4-2": {
+      "title": "",
+      "title_url": "",
+      "icon": "",
+      "header_style": "",
+      "header_bg_color": "",
+      "header_line_color": "",
+      "header_title_bg_color": "",
+      "header_title_color": "",
+      "header_icon_color": "",
+      "block_accent_color": "",
+      "category": "",
+      "count": "5",
+      "offset": "",
+      "order_by": "popular_week",
+      "advanced_filters_heading": "",
+      "time_filter": "",
+      "post_type": "",
+      "post": "",
+      "author": "",
+      "taxonomy": "",
+      "taxonomy_relation": "",
+      "pagination": "",
+      "infinity_break_count": "3",
+      "show_pagination_label": "",
+      "tabs": "",
+      "tabs_cat_filter": "",
+      "tabs_tax_filter": "",
+      "tabs_order_by_filter": "",
+      "tabs_all_text": "All",
+      "custom_part_heading": "",
+      "custom_enabled": "yes",
+      "custom_parts": {
+        "title_length": "",
+        "show_excerpt": "hide",
+        "excerpt_length": "",
+        "show_meta": "hide",
+        "show_author_icon": "",
+        "show_author": "",
+        "show_comment_count": "",
+        "show_share_count": "",
+        "show_view_count": "",
+        "show_date": "",
+        "date_format": "",
+        "custom_date_format": "",
+        "show_category": "",
+        "show_category_type": "badge",
+        "category_limit": "",
+        "show_format_icon": "",
+        "show_badge_icon": ""
+      },
+      "block_width": "",
+      "block_extra_classes": "ak-block-module-center-elements",
+      "block_id": "",
+      "item_margin": "30",
+      "numeric_items_style": ""
+    }
+  },
+  "footer-1": {
+    "newsy_about_us-3": {
+      "image": "%attachment_url%ak-newsy-logo%attachment_url%",
+      "logo_text": "",
+      "about_title": "",
+      "description": "One of the earliest activities we engaged in when we first got into astronomy is the same one we like to show our children just as soon as their excitement about the night sky begins to surface. That is the fun of finding constellations.",
+      "about_link_text": "Read More",
+      "about_link_url": "",
+      "social_sites": "facebook,instagram,twitter,youtube,rss,pinterest",
+      "social_sites_color": "light-square",
+      "layout_align": "",
+      "image_rounded": "",
+      "title": "About Us",
+      "title_url": "",
+      "icon": "",
+      "header_style": "",
+      "header_bg_color": "",
+      "header_line_color": "",
+      "header_title_bg_color": "",
+      "header_title_color": "",
+      "header_icon_color": "",
+      "block_accent_color": "",
+      "block_extra_classes": "",
+      "block_id": "",
+      "item_margin": "30"
+    }
+  },
+  "footer-2": {
+    "newsy_list_1_small-3": {
+      "title": "Latest",
+      "count": "3"
+    }
+  },
+  "footer-3": {
+    "newsy_popular_categories-3": {
+      "title": "Categories",
+      "count": "7"
+    }
+  }
+}

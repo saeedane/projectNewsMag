@@ -1,0 +1,40 @@
+{
+  "frontend_classic_types": [
+    {
+      "type": "gif",
+      "name": "GIF",
+      "desc": "Upload a GIF, or add one with a URL.",
+      "icon": "akfi-gif",
+      "starter_blocks": "buzzeditor/gif",
+      "accepted_blocks": "buzzeditor/gif,core/image,buzzeditor/text",
+      "show_in_editor": "no"
+    },
+    {
+      "type": "image",
+      "name": "Image",
+      "desc": "Upload an image file, or add one with a URL.",
+      "icon": "fa-camera-retro",
+      "starter_blocks": "core/image",
+      "accepted_blocks": "core/image",
+      "show_in_editor": "no"
+    },
+    {
+      "type": "video",
+      "name": "Video",
+      "desc": "Embed a video from your provider or upload a new one.",
+      "icon": "fa-youtube-play",
+      "starter_blocks": "core/video",
+      "accepted_blocks": "core/video,buzzeditor/text",
+      "show_in_editor": "no"
+    },
+    {
+      "type": "embed",
+      "name": "Embed",
+      "desc": "Embed a Facebook post, Intagram post, tiktok video, or a tweet.",
+      "icon": "fa-link",
+      "starter_blocks": "core/embed",
+      "accepted_blocks": "core/embed,buzzeditor/text",
+      "show_in_editor": "no"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+/*
+*/
+.ak-block-module-inner-boxed .ak-module-details {
+  padding: 20px 25px;
+}
+.ak-module-featured .ak-module-badges {
+  left: 15px;
+}
+.rtl .ak-module-featured .ak-module-badges {
+  left: auto;
+  right: 15px;
+}
