@@ -1,0 +1,1 @@
+ak.form.controlConstructor.custom_field=ak.form.Control.extend({ready:function(){"use strict";var t=this,n=t.container.find("input");0<n.length&&n.on("change keyup paste",function(){t.setting.set(n.val())})},setValue:function(t){var n=this.container.find("input");0<n.length&&(n.val(t),this.setting.set(t))}});

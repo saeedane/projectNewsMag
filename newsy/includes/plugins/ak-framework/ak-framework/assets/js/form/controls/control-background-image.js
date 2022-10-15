@@ -1,0 +1,1 @@
+ak.form.controlConstructor.background_image=ak.form.controlConstructor.mix_fields.extend({});

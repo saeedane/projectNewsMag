@@ -1,0 +1,1 @@
+ak.form.controlConstructor.number=ak.form.Control.extend({});

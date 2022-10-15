@@ -1,0 +1,1 @@
+!function(n){"use strict";ak.form.controlConstructor.date=ak.form.Control.extend({ready:function(){var t=this.container.find("input"),e=n(t).data("date-format");this.picker=t.datepicker({dateFormat:e}).on("change",function(t){this.setting.set(t)})},setValue:function(t){this.picker.datepicker("setDate",t),this.setting.set(t)}})}(jQuery);

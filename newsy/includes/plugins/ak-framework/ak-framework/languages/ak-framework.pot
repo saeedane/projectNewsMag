@@ -1,0 +1,916 @@
+# Copyright (C) 2022 akbilisim
+# This file is distributed under the same license as the Ak Framework plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ak Framework 2.0.0\n"
+"Report-Msgid-Bugs-To: https://support.akbilisim.com/\n"
+"Last-Translator: akbilisim <contact@akbilisim.com>\n"
+"Language-Team: akbilisim <contact@akbilisim.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-10-10T12:53:58+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"bugReport: https://support.akbilisim.com/\n"
+"X-Domain: ak-framework\n"
+
+#. Plugin Name of the plugin
+msgid "Ak Framework"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://themeforest.net/user/akbilisim"
+msgstr ""
+
+#. Description of the plugin
+msgid "Ak Framework is framework for WordPress themes and plugins."
+msgstr ""
+
+#. Author of the plugin
+msgid "akbilisim"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://akbilisim.com"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:66
+msgid "Change you made not showing on this page.<br/> Do you want to be redirected to the appropriate page to see change you just made?"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:67
+msgid "Yes"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:81
+msgid "Category Page"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:87
+msgid "Home Page"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:93
+msgid "Single Post"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:99
+msgid "Single Page"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:105
+msgid "Search Post"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:111
+#: class/Customizer/CustomizerRedirect.php:117
+msgid "Archive Page"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:123
+msgid "Author Page"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:129
+msgid "Attachment"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:135
+msgid "404"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:142
+msgid "BBPress"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:150
+msgid "Archive WooCommerce"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:155
+msgid "Single WooCommerce"
+msgstr ""
+
+#: class/Customizer/CustomizerRedirect.php:247
+msgid "Category : "
+msgstr ""
+
+#: class/Elementor/Control/IconSelect.php:19
+#: class/Form/Control/IconSelect.php:38
+#: class/Form/Control/IconSelect.php:60
+msgid "Select an Icon"
+msgstr ""
+
+#: class/Elementor/Control/MediaImage.php:26
+msgid "Upload"
+msgstr ""
+
+#: class/Elementor/Control/MediaImage.php:27
+msgid "Select"
+msgstr ""
+
+#: class/Elementor/Control/MediaImage.php:28
+msgid "Remove"
+msgstr ""
+
+#: class/Elementor/ElementorWidget.php:139
+#: class/Form/Control/CssEditor.php:320
+msgid "Style"
+msgstr ""
+
+#: class/Elementor/ElementorWidget.php:144
+msgid "Setting"
+msgstr ""
+
+#: class/Form/Control/Color.php:39
+msgid "Clear"
+msgstr ""
+
+#: class/Form/Control/Color.php:40
+msgid "Clear color"
+msgstr ""
+
+#: class/Form/Control/Color.php:41
+#: class/Form/Control/CssEditor.php:510
+#: class/Support/Font.php:268
+#: functions/menu.php:80
+msgid "Default"
+msgstr ""
+
+#: class/Form/Control/Color.php:42
+msgid "Select default color"
+msgstr ""
+
+#: class/Form/Control/Color.php:43
+msgid "Select Color"
+msgstr ""
+
+#: class/Form/Control/Color.php:44
+msgid "Color value"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:153
+#: class/Form/Control/CssEditor.php:268
+#: class/Form/Control/CssEditor.php:362
+msgid "Linked"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:213
+#: class/Form/Control/CssEditor.php:215
+msgid "Background"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:221
+#: class/Form/Control/CssEditor.php:223
+msgid "Margin"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:229
+#: class/Form/Control/CssEditor.php:231
+msgid "Padding"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:237
+#: class/Form/Control/CssEditor.php:239
+msgid "Border"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:245
+#: class/Form/Control/CssEditor.php:247
+msgid "Radius"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:344
+#: class/Form/Control/CssEditor.php:463
+#: class/Form/Control/Typography.php:189
+msgid "Color"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:414
+msgid "Type"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:418
+msgid "Single"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:422
+msgid "Gradient"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:429
+msgid "Gradient Color"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:435
+msgid "First Color"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:440
+msgid "Second Color"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:445
+msgid "Location"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:451
+msgid "Angle"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:472
+msgid "Image"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:495
+msgid "Top"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:497
+msgid "Right"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:499
+msgid "Bottom"
+msgstr ""
+
+#: class/Form/Control/CssEditor.php:501
+msgid "Left"
+msgstr ""
+
+#: class/Form/Control/IconSelect.php:37
+msgid "Icons"
+msgstr ""
+
+#: class/Form/Control/IconSelect.php:39
+msgid "Remove Icon"
+msgstr ""
+
+#: class/Form/Control/IconSelect.php:40
+msgid "Select Image Icon"
+msgstr ""
+
+#: class/Form/Control/IconSelect.php:41
+msgid "Search Icon"
+msgstr ""
+
+#: class/Form/Control/Repeater.php:46
+msgid "Add More"
+msgstr ""
+
+#: class/Form/Control/Repeater.php:50
+msgid "Item"
+msgstr ""
+
+#: class/Form/Control/Repeater.php:131
+msgid "(click to open)"
+msgstr ""
+
+#: class/Form/Control/Typography.php:92
+#: includes/options/fonts_panel.php:97
+msgid "Font Family"
+msgstr ""
+
+#: class/Form/Control/Typography.php:96
+msgid "Select a Font"
+msgstr ""
+
+#: class/Form/Control/Typography.php:103
+msgid "Font Variant"
+msgstr ""
+
+#: class/Form/Control/Typography.php:117
+msgid "Font Subsets"
+msgstr ""
+
+#: class/Form/Control/Typography.php:133
+msgid "Font Size"
+msgstr ""
+
+#: class/Form/Control/Typography.php:141
+msgid "Line Height"
+msgstr ""
+
+#: class/Form/Control/Typography.php:149
+msgid "Letter Spacing"
+msgstr ""
+
+#: class/Form/Control/Typography.php:157
+msgid "Transform"
+msgstr ""
+
+#: class/Form/Control/Typography.php:174
+msgid "Align"
+msgstr ""
+
+#: class/Product/Panel/ProductActivation.php:42
+msgid "Activated purchase code:"
+msgstr ""
+
+#: class/Product/Panel/ProductActivation.php:50
+#: class/Product/ProductMenu.php:252
+msgid "Deactivate %s"
+msgstr ""
+
+#: class/Product/Panel/ProductActivation.php:88
+msgid "Activate with purchase code:"
+msgstr ""
+
+#: class/Product/Panel/ProductActivation.php:92
+#: class/Product/Panel/ProductInstallDemo.php:120
+#: class/Product/Panel/ProductInstallPlugin.php:254
+msgid "Activate"
+msgstr ""
+
+#: class/Product/Panel/ProductActivation.php:95
+msgid "In order to use all the included features you need to verify your account in support center."
+msgstr ""
+
+#: class/Product/Panel/ProductActivation.php:101
+msgid "How to activate %s"
+msgstr ""
+
+#: class/Product/Panel/ProductActivation.php:122
+#: class/Product/ProductLicense.php:80
+msgid "Please add valid purchase code!"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:36
+msgid "Import Content"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:37
+msgid "Installing"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:38
+msgid "Uninstalling"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:39
+msgid "Don't refresh page while processing"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:40
+#: class/Product/Panel/ProductInstallPlugin.php:69
+msgid "Error:"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:42
+msgid "Are you sure to install demo?"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:43
+msgid ""
+"<p>This will import our predefined settings for the demo (plugins, media, posts, taxonomies, widgets, menus, options etc...) and our sample content.</p>\n"
+"\t\t\t\t<p>The demo can be fully uninstalled via the uninstall button. Please backup your settings to be sure that you don't lose them by accident.</p>\n"
+"\t\t\t\t"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:48
+msgid "Yes, Install"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:49
+msgid "Cancel"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:52
+msgid "Are your sure to uninstall this demo?"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:53
+msgid "By uninstalling demo all configurations from media, widgets, options, menus, taxonomies and other settings that was comes from our demo content will be removed and your settings will be rollback to before demo installation."
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:54
+msgid "Yes, Uninstall"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:55
+msgid "No, do not"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:58
+#: class/Product/Panel/ProductOptionPanel.php:52
+msgid "An error occurred while installing demo"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:59
+#: class/Product/Panel/ProductInstallDemo.php:64
+#: class/Product/Panel/ProductOptionPanel.php:53
+msgid "Please try again several minutes later or contact support."
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:60
+#: class/Product/Panel/ProductInstallDemo.php:65
+#: class/Product/Panel/ProductInstallDemo.php:70
+#: class/Product/Panel/ProductInstallDemo.php:75
+#: class/Product/Panel/ProductOptionPanel.php:54
+#: class/Product/Panel/ProductOptionPanel.php:59
+msgid "Ok"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:63
+msgid "An error occurred while uninstalling demo"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:68
+msgid "Demo successfully installed."
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:69
+msgid "Demo installing process finished."
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:73
+msgid "Demo successfully uninstalled"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:74
+msgid "Demo uninstalling process finished."
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:113
+#: class/Product/Panel/ProductInstallPlugin.php:244
+msgid "Install"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:115
+msgid "Preview"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:117
+msgid "Uninstall"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallDemo.php:119
+msgid "Activate product to install demos"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallPlugin.php:72
+msgid "Activating: %s"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallPlugin.php:74
+msgid "Deactivating: %s"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallPlugin.php:76
+msgid "Installing: %s"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallPlugin.php:78
+msgid "Updating: %s"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallPlugin.php:177
+msgid "No plugin registered"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallPlugin.php:215
+msgid "by"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallPlugin.php:248
+#: class/Product/Panel/ProductInstallPlugin.php:251
+msgid "Update"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallPlugin.php:258
+msgid "Deactivate"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallPlugin.php:263
+msgid "This Plugin Required by Theme"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallPlugin.php:280
+msgid "Installed Version :"
+msgstr ""
+
+#: class/Product/Panel/ProductInstallPlugin.php:290
+msgid "Required Version :"
+msgstr ""
+
+#: class/Product/Panel/ProductOptionPanel.php:57
+msgid "Options successfully saved."
+msgstr ""
+
+#: class/Product/Panel/ProductOptionPanel.php:58
+msgid "All options saved."
+msgstr ""
+
+#: class/Product/Panel/ProductOptionPanel.php:104
+msgid "Save Changes"
+msgstr ""
+
+#: class/Product/Panel/ProductOptionPanel.php:105
+#: class/Product/Panel/ProductOptionPanel.php:106
+msgid "Are your sure? Your setting will be lost!"
+msgstr ""
+
+#: class/Product/Panel/ProductOptionPanel.php:107
+msgid "Reset"
+msgstr ""
+
+#: class/Product/Panel/ProductOptionPanel.php:108
+msgid "Export"
+msgstr ""
+
+#: class/Product/Panel/ProductOptionPanel.php:109
+msgid "Import"
+msgstr ""
+
+#: class/Product/Panel/ProductSystemReport.php:188
+#: class/Product/Panel/ProductSystemReport.php:775
+msgid "Nothing!"
+msgstr ""
+
+#: class/Product/Panel/ProductSystemReport.php:195
+msgid "Error Log"
+msgstr ""
+
+#: class/Product/Panel/ProductSystemReport.php:198
+msgid "System report was not configured!"
+msgstr ""
+
+#: class/Product/Panel/ProductSystemReport.php:288
+#: class/Product/Panel/ProductSystemReport.php:291
+msgid "unknown"
+msgstr ""
+
+#: class/Product/Panel/ProductSystemReport.php:300
+msgid "by <a href=\"%1$s\" target=\"_blank\">%2$s</a>"
+msgstr ""
+
+#: class/Product/Panel/ProductSystemReport.php:312
+msgid "by %1$s (V %2$s)"
+msgstr ""
+
+#: class/Product/Panel/ProductSystemReport.php:322
+msgid "no active plugin was found!"
+msgstr ""
+
+#: class/Product/Panel/ProductSystemReport.php:332
+msgid "Get Status Report"
+msgstr ""
+
+#: class/Product/Panel/ProductSystemReport.php:333
+msgid "Click the button to produce a report, then copy and paste into your support ticket."
+msgstr ""
+
+#: class/Product/Panel/ProductSystemReport.php:339
+msgid "Copy status report"
+msgstr ""
+
+#: class/Product/Panel/ProductSystemReport.php:804
+msgid "Enabled"
+msgstr ""
+
+#: class/Product/Panel/ProductSystemReport.php:804
+msgid "Disabled"
+msgstr ""
+
+#: class/Product/ProductMenu.php:190
+#: class/Product/ProductMenu.php:195
+#: includes/options/fonts_panel.php:6
+msgid "Custom Fonts"
+msgstr ""
+
+#: class/Product/ProductMenu.php:206
+msgid "Theme Translations"
+msgstr ""
+
+#: class/Product/ProductMenu.php:206
+msgid " Translations"
+msgstr ""
+
+#: class/Product/ProductMenu.php:229
+msgid "Activate %s"
+msgstr ""
+
+#: class/Product/ProductMenu.php:234
+msgctxt "product name"
+msgid "Please %s to enjoy the full benefits. We're sorry about this extra step but we built the activation system to prevent mass piracy of our products, this allows us to better serve our paying customers."
+msgstr ""
+
+#: class/Product/ProductUpdater.php:160
+msgid "There is a new version of %s available."
+msgstr ""
+
+#: class/Product/ProductUpdater.php:164
+msgid "Please activate your licence to get updates"
+msgstr ""
+
+#: class/Product/ProductUpdater.php:172
+msgid "<a href=\"%s\">Click here</a> to update your theme and get new features and bug fixes now."
+msgstr ""
+
+#: class/Product/ProductUpdater.php:177
+msgid "<a href=\"%s\">Click here</a> to update your plugins."
+msgstr ""
+
+#: class/Product/ProductUpdater.php:183
+msgid "<a href=\"%s\">Click here</a> to view changelog."
+msgstr ""
+
+#: class/Support/AdminNotices.php:172
+msgid "A notice with the ID %s has already been registered."
+msgstr ""
+
+#: class/Support/AdminNotices.php:336
+msgid "Dismissible Notices Handler Error:"
+msgstr ""
+
+#: class/Support/BBPressBreadcrumb.php:74
+#: class/Support/BBPressBreadcrumb.php:115
+#: class/Support/BBPressBreadcrumb.php:133
+#: class/Support/BBPressBreadcrumb.php:165
+msgid "Edit"
+msgstr ""
+
+#: class/Support/BBPressBreadcrumb.php:105
+msgid "Split"
+msgstr ""
+
+#: class/Support/BBPressBreadcrumb.php:110
+msgid "Merge"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:233
+msgid "Browse:"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:234
+msgid "Breadcrumbs"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:235
+msgid "Home"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:236
+msgid "404 Not Found"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:237
+msgid "Archives"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:239
+msgid "Search results for: %s"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:241
+msgid "Page %s"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:243
+msgid "Comment Page %s"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:245
+msgid "Minute %s"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:247
+msgid "Week %s"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:629
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:645
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:661
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:676
+#: class/Support/Breadcrumb.php:701
+#: class/Support/Breadcrumb.php:733
+#: class/Support/Breadcrumb.php:756
+#: class/Support/Breadcrumb.php:1059
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:677
+#: class/Support/Breadcrumb.php:734
+#: class/Support/Breadcrumb.php:1063
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:678
+#: class/Support/Breadcrumb.php:1067
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: class/Support/Breadcrumb.php:702
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: class/Support/Font.php:269
+msgid "100 - Ultra-Light"
+msgstr ""
+
+#: class/Support/Font.php:270
+msgid "300 - Book"
+msgstr ""
+
+#: class/Support/Font.php:271
+msgid "400 - Regular"
+msgstr ""
+
+#: class/Support/Font.php:272
+msgid "500 - Medium"
+msgstr ""
+
+#: class/Support/Font.php:273
+msgid "700 - Bold"
+msgstr ""
+
+#: class/Support/Font.php:274
+msgid "900 - Ultra-Bold"
+msgstr ""
+
+#: class/Support/Font.php:275
+msgid "Italic 100 - Ultra-Light"
+msgstr ""
+
+#: class/Support/Font.php:276
+msgid "Italic 300 - Book"
+msgstr ""
+
+#: class/Support/Font.php:277
+msgid "Italic 400 - Regular"
+msgstr ""
+
+#: class/Support/Font.php:278
+msgid "Italic 500 - Medium"
+msgstr ""
+
+#: class/Support/Font.php:279
+msgid "Italic 700 - Bold"
+msgstr ""
+
+#: class/Support/Font.php:280
+msgid "Italic 900 - Ultra-Bold"
+msgstr ""
+
+#: class/Support/Icon.php:62
+msgid "FontAwesome Icons"
+msgstr ""
+
+#: class/Support/Icon.php:128
+msgid "Custom Icons"
+msgstr ""
+
+#: class/Support/Pagination.php:172
+msgid "Load More"
+msgstr ""
+
+#: class/Support/Pagination.php:173
+msgid "Loading..."
+msgstr ""
+
+#: class/Support/Pagination.php:174
+msgid "No More."
+msgstr ""
+
+#: class/Support/Pagination.php:175
+msgid "Next"
+msgstr ""
+
+#: class/Support/Pagination.php:176
+msgid "Previous"
+msgstr ""
+
+#: class/Support/Pagination.php:178
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: class/Translation/TranslationManager.php:111
+msgid "Framework"
+msgstr ""
+
+#: class/Widget/WidgetManager.php:105
+msgid "Default Sidebar"
+msgstr ""
+
+#: class/Widget/WidgetSidebarManager.php:63
+msgid "Add or Remove Widget Area"
+msgstr ""
+
+#: class/Widget/WidgetSidebarManager.php:91
+msgid "Edit Widget Area"
+msgstr ""
+
+#: class/Widget/WidgetSidebarManager.php:95
+msgid "Widget Area List :"
+msgstr ""
+
+#: class/Widget/WidgetSidebarManager.php:99
+#: class/Widget/WidgetSidebarManager.php:105
+msgid "Create Widget Area"
+msgstr ""
+
+#: class/Widget/WidgetSidebarManager.php:100
+msgid "Save Widget"
+msgstr ""
+
+#: class/Widget/WidgetSidebarManager.php:106
+msgid "Enter name of widget"
+msgstr ""
+
+#: class/Widget/WidgetSidebarManager.php:109
+msgid "Add Widget"
+msgstr ""
+
+#: functions/menu.php:58
+msgid "Select Menu for %s"
+msgstr ""
+
+#: functions/menu.php:81
+msgid "No Animation"
+msgstr ""
+
+#: functions/menu.php:82
+msgid "Simple Fade"
+msgstr ""
+
+#: functions/query.php:131
+msgid "Private"
+msgstr ""
+
+#: functions/query.php:133
+msgid "Draft"
+msgstr ""
+
+#: functions/query.php:137
+msgid "Front Page"
+msgstr ""
+
+#: includes/options/fonts_panel.php:12
+msgid "Custom Font"
+msgstr ""
+
+#: includes/options/fonts_panel.php:19
+#: includes/options/fonts_panel.php:87
+msgid "Font Name"
+msgstr ""
+
+#: includes/options/fonts_panel.php:29
+msgid "Font .woff"
+msgstr ""
+
+#: includes/options/fonts_panel.php:32
+#: includes/options/fonts_panel.php:33
+msgid "Upload .woff"
+msgstr ""
+
+#: includes/options/fonts_panel.php:39
+msgid "Font .ttf"
+msgstr ""
+
+#: includes/options/fonts_panel.php:42
+#: includes/options/fonts_panel.php:43
+msgid "Upload .ttf"
+msgstr ""
+
+#: includes/options/fonts_panel.php:49
+msgid "Font .svg"
+msgstr ""
+
+#: includes/options/fonts_panel.php:52
+#: includes/options/fonts_panel.php:53
+msgid "Upload .svg"
+msgstr ""
+
+#: includes/options/fonts_panel.php:59
+msgid "Font .eot"
+msgstr ""
+
+#: includes/options/fonts_panel.php:62
+#: includes/options/fonts_panel.php:63
+msgid "Upload .eot"
+msgstr ""
+
+#: includes/options/fonts_panel.php:73
+msgid "Fonts Stacks"
+msgstr ""
+
+#: includes/options/fonts_panel.php:80
+msgid "Font Stack"
+msgstr ""

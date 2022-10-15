@@ -1,0 +1,1 @@
+!function(n,e){"use strict";e.Section=e.Section.extend({expand:function(e){var t=this.container[1];return n(t).hasClass("ak-section-loaded")||n(t).addClass("ak-section-loaded").trigger("ak-section-opened"),this._toggleExpanded(!0,e)}})}(jQuery,wp.customize);

@@ -1,0 +1,148 @@
+# Copyright (C) 2022 akbilisim
+# This file is distributed under the same license as the Newsy - AMP Extender plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Newsy - AMP Extender 2.0.0\n"
+"Report-Msgid-Bugs-To: https://support.akbilisim.com/\n"
+"Last-Translator: akbilisim <contact@akbilisim.com>\n"
+"Language-Team: akbilisim <contact@akbilisim.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-10-10T12:53:59+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"bugReport: https://support.akbilisim.com/\n"
+"X-Domain: newsy-amp\n"
+
+#. Plugin Name of the plugin
+msgid "Newsy - AMP Extender"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://themeforest.net/user/akbilisim"
+msgstr ""
+
+#. Description of the plugin
+msgid "Extend WordPress AMP to fit with Newsy Style"
+msgstr ""
+
+#. Author of the plugin
+msgid "akbilisim"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://akbilisim.com"
+msgstr ""
+
+#: newsy-amp.php:40
+msgid "AMP Options"
+msgstr ""
+
+#: newsy-amp.php:47
+msgid "Newsy AMP Options"
+msgstr ""
+
+#: newsy-amp.php:70
+msgid "Newsy Amp"
+msgstr ""
+
+#: options/panel.php:4
+msgid "Settings"
+msgstr ""
+
+#: options/panel.php:13
+msgid "Color Scheme"
+msgstr ""
+
+#: options/panel.php:14
+msgid "Select color scheme for site."
+msgstr ""
+
+#: options/panel.php:17
+#: options/panel.php:50
+msgid "Light"
+msgstr ""
+
+#: options/panel.php:18
+#: options/panel.php:51
+msgid "Dark"
+msgstr ""
+
+#: options/panel.php:25
+msgid "Body Backgroud Color"
+msgstr ""
+
+#: options/panel.php:32
+msgid "Body Color"
+msgstr ""
+
+#: options/panel.php:39
+msgid "Highlight Color"
+msgstr ""
+
+#: options/panel.php:46
+msgid "Drawer Color Scheme"
+msgstr ""
+
+#: options/panel.php:47
+msgid "Select color scheme for drawer menu."
+msgstr ""
+
+#: options/panel.php:60
+msgid "Select Social Share Icons"
+msgstr ""
+
+#: options/panel.php:61
+msgid "Social Sites"
+msgstr ""
+
+#: options/panel.php:71
+msgid "Ads"
+msgstr ""
+
+#: options/panel.php:80
+msgid "Above header"
+msgstr ""
+
+#: options/panel.php:83
+msgid "Above article"
+msgstr ""
+
+#: options/panel.php:86
+msgid "Below article"
+msgstr ""
+
+#: options/panel.php:89
+msgid "Above content"
+msgstr ""
+
+#: options/panel.php:92
+msgid "Below content"
+msgstr ""
+
+#: template/footer.php:3
+msgid "Back to top"
+msgstr ""
+
+#: template/meta-author.php:7
+#: template/related-posts.php:45
+msgid "By %s"
+msgstr ""
+
+#: template/meta-comments-link.php:6
+msgid "Leave a Comment"
+msgstr ""
+
+#: template/meta-taxonomy.php:4
+msgid "Tags:"
+msgstr ""
+
+#: template/meta-time.php:5
+#: template/related-posts.php:37
+msgid "%s ago"
+msgstr ""
+
+#: template/related-posts.php:61
+msgid "Related Content"
+msgstr ""
